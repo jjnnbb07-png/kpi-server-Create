@@ -25,8 +25,8 @@
         "pol": "Maior",
         "unit": "un",
         "proc": "MAN+OPE",
-        "meta_raw": 4,
-        "real_raw": 2.5833333333333335
+        "meta_raw": 0,
+        "real_raw": 0
       },
       {
         "ind": "Índice Guardião",
@@ -34,8 +34,8 @@
         "pol": "Maior",
         "unit": "%",
         "proc": "MAN+OPE",
-        "meta_raw": 90,
-        "real_raw": 75.3225
+        "meta_raw": 0,
+        "real_raw": 0
       },
       {
         "ind": "Aderência de Execução ao Plano de Manutenção",
@@ -3393,5 +3393,5 @@
     }
   },
   "savedBy": "Administrador",
-  "savedAt": "2026-06-26T02:27:12.187Z"
+  "savedAt": "2026-06-26T12:10:41.566Z"
 }
