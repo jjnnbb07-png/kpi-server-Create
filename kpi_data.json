@@ -16,8 +16,8 @@
         "pol": "Menor",
         "unit": "%",
         "proc": "MAN+OPE",
-        "meta_raw": 0,
-        "real_raw": 0
+        "meta_raw": 1,
+        "real_raw": 1
       },
       {
         "ind": "LPV – Liderança pela Vida",
@@ -3393,5 +3393,5 @@
     }
   },
   "savedBy": "Administrador",
-  "savedAt": "2026-06-26T12:29:23.675Z"
+  "savedAt": "2026-06-26T12:30:46.205Z"
 }
