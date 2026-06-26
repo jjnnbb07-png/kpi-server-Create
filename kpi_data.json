@@ -7,8 +7,8 @@
         "pol": "Menor",
         "unit": "%",
         "proc": "MAN+OPE",
-        "meta_raw": 0,
-        "real_raw": 5.858350000000001
+        "meta_raw": 101,
+        "real_raw": 100
       },
       {
         "ind": "IRL",
@@ -3393,5 +3393,5 @@
     }
   },
   "savedBy": "Administrador",
-  "savedAt": "2026-06-26T12:27:13.586Z"
+  "savedAt": "2026-06-26T12:32:19.045Z"
 }
