@@ -7,8 +7,8 @@
         "pol": "Menor",
         "unit": "%",
         "proc": "MAN+OPE",
-        "meta_raw": 6.066666666666666,
-        "real_raw": 5.858350000000001
+        "meta_raw": 0,
+        "real_raw": 0
       },
       {
         "ind": "IRL",
@@ -17,7 +17,7 @@
         "unit": "%",
         "proc": "MAN+OPE",
         "meta_raw": 25,
-        "real_raw": 20.340833333333332
+        "real_raw": 0
       },
       {
         "ind": "LPV – Liderança pela Vida",
@@ -25,8 +25,8 @@
         "pol": "Maior",
         "unit": "un",
         "proc": "MAN+OPE",
-        "meta_raw": 4,
-        "real_raw": 2.5833333333333335
+        "meta_raw": 0,
+        "real_raw": 0
       },
       {
         "ind": "Índice Guardião",
@@ -3393,5 +3393,5 @@
     }
   },
   "savedBy": "Administrador",
-  "savedAt": "2026-06-26T01:58:11.162Z"
+  "savedAt": "2026-06-26T01:59:26.308Z"
 }
