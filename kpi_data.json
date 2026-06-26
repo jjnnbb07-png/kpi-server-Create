@@ -16,7 +16,7 @@
         "pol": "Menor",
         "unit": "%",
         "proc": "MAN+OPE",
-        "meta_raw": 25.0,
+        "meta_raw": 25,
         "real_raw": 20.340833333333332
       },
       {
@@ -25,7 +25,7 @@
         "pol": "Maior",
         "unit": "un",
         "proc": "MAN+OPE",
-        "meta_raw": 4.0,
+        "meta_raw": 4,
         "real_raw": 2.5833333333333335
       },
       {
@@ -34,7 +34,7 @@
         "pol": "Maior",
         "unit": "%",
         "proc": "MAN+OPE",
-        "meta_raw": 90.0,
+        "meta_raw": 90,
         "real_raw": 75.3225
       },
       {
@@ -43,7 +43,7 @@
         "pol": "Maior",
         "unit": "%",
         "proc": "MAN",
-        "meta_raw": 80.0,
+        "meta_raw": 80,
         "real_raw": 87.36666666666667
       },
       {
@@ -52,7 +52,7 @@
         "pol": "Maior",
         "unit": "%",
         "proc": "OPE",
-        "meta_raw": 90.0,
+        "meta_raw": 90,
         "real_raw": 88.70175
       },
       {
@@ -124,7 +124,7 @@
         "pol": "Maior",
         "unit": "%",
         "proc": "MAN+OPE",
-        "meta_raw": 90.0,
+        "meta_raw": 90,
         "real_raw": 94.75
       },
       {
@@ -188,7 +188,7 @@
         "unit": "min",
         "proc": "MAN+OPE",
         "meta_raw": 542.1666666666666,
-        "real_raw": 579.0
+        "real_raw": 579
       }
     ],
     "gerencias": {
@@ -199,7 +199,7 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 6.0,
+          "meta_raw": 6,
           "real_raw": 5.025
         },
         {
@@ -208,7 +208,7 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 25.0,
+          "meta_raw": 25,
           "real_raw": 13.5
         },
         {
@@ -217,7 +217,7 @@
           "pol": "Maior",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 4.0,
+          "meta_raw": 4,
           "real_raw": 2.5
         },
         {
@@ -226,7 +226,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 65.02499999999999
         },
         {
@@ -235,7 +235,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN",
-          "meta_raw": 80.0,
+          "meta_raw": 80,
           "real_raw": 82.75
         },
         {
@@ -244,7 +244,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 91.27115
         },
         {
@@ -280,8 +280,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 66.0,
-          "real_raw": 90.0
+          "meta_raw": 66,
+          "real_raw": 90
         },
         {
           "ind": "DEC Regional",
@@ -316,7 +316,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 98.75
         },
         {
@@ -361,7 +361,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 88.0,
+          "meta_raw": 88,
           "real_raw": 90.75
         },
         {
@@ -370,7 +370,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 72.0,
+          "meta_raw": 72,
           "real_raw": 77.75
         },
         {
@@ -380,7 +380,7 @@
           "unit": "min",
           "proc": "MAN+OPE",
           "meta_raw": 561.5,
-          "real_raw": 557.0
+          "real_raw": 557
         }
       ],
       "Ger. Centro Sul/Sudoeste": [
@@ -399,7 +399,7 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 25.0,
+          "meta_raw": 25,
           "real_raw": 36.25
         },
         {
@@ -408,7 +408,7 @@
           "pol": "Maior",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 4.0,
+          "meta_raw": 4,
           "real_raw": 2.75
         },
         {
@@ -417,7 +417,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 86.8375
         },
         {
@@ -426,7 +426,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN",
-          "meta_raw": 80.0,
+          "meta_raw": 80,
           "real_raw": 92.425
         },
         {
@@ -435,7 +435,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 84.14744999999999
         },
         {
@@ -463,7 +463,7 @@
           "unit": "R$",
           "proc": "MAN+OPE",
           "meta_raw": 5510556.5,
-          "real_raw": 6526182.0
+          "real_raw": 6526182
         },
         {
           "ind": "Conjuntos dentro do limite DEC",
@@ -472,7 +472,7 @@
           "unit": "%",
           "proc": "MAN+OPE",
           "meta_raw": 51.5,
-          "real_raw": 61.0
+          "real_raw": 61
         },
         {
           "ind": "DEC Regional",
@@ -498,7 +498,7 @@
           "pol": "Menor",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 8083491.0,
+          "meta_raw": 8083491,
           "real_raw": 6701900.5
         },
         {
@@ -507,7 +507,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 87.75
         },
         {
@@ -534,7 +534,7 @@
           "pol": "Maior",
           "unit": "km",
           "proc": "MAN",
-          "meta_raw": 419.0,
+          "meta_raw": 419,
           "real_raw": 421.5
         },
         {
@@ -571,7 +571,7 @@
           "unit": "min",
           "proc": "MAN+OPE",
           "meta_raw": 467.5,
-          "real_raw": 599.0
+          "real_raw": 599
         }
       ],
       "Ger. Leste/Vale": [
@@ -581,7 +581,7 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 6.0,
+          "meta_raw": 6,
           "real_raw": 6.9
         },
         {
@@ -590,7 +590,7 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 25.0,
+          "meta_raw": 25,
           "real_raw": 11.2725
         },
         {
@@ -599,7 +599,7 @@
           "pol": "Maior",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 4.0,
+          "meta_raw": 4,
           "real_raw": 2.5
         },
         {
@@ -608,7 +608,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 74.105
         },
         {
@@ -617,7 +617,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN",
-          "meta_raw": 80.0,
+          "meta_raw": 80,
           "real_raw": 86.92500000000001
         },
         {
@@ -626,7 +626,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 90.68665
         },
         {
@@ -654,7 +654,7 @@
           "unit": "R$",
           "proc": "MAN+OPE",
           "meta_raw": 10188684.25,
-          "real_raw": 11634814.0
+          "real_raw": 11634814
         },
         {
           "ind": "Conjuntos dentro do limite DEC",
@@ -662,7 +662,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 73.0,
+          "meta_raw": 73,
           "real_raw": 92.5
         },
         {
@@ -690,7 +690,7 @@
           "unit": "R$",
           "proc": "MAN+OPE",
           "meta_raw": 7670857.75,
-          "real_raw": 8135006.0
+          "real_raw": 8135006
         },
         {
           "ind": "PANOP",
@@ -698,7 +698,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 97.75
         },
         {
@@ -726,7 +726,7 @@
           "unit": "km",
           "proc": "MAN",
           "meta_raw": 2333.5,
-          "real_raw": 2248.0
+          "real_raw": 2248
         },
         {
           "ind": "Ocorrências acima de 24 horas",
@@ -743,8 +743,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 88.0,
-          "real_raw": 89.0
+          "meta_raw": 88,
+          "real_raw": 89
         },
         {
           "ind": "Produtividade",
@@ -762,7 +762,7 @@
           "unit": "min",
           "proc": "MAN+OPE",
           "meta_raw": 597.5,
-          "real_raw": 581.0
+          "real_raw": 581
         }
       ]
     },
@@ -794,7 +794,7 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 6.0,
+          "meta_raw": 6,
           "real_raw": 5.5,
           "_apuracao": false
         },
@@ -804,8 +804,8 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 25.0,
-          "real_raw": 4.0,
+          "meta_raw": 25,
+          "real_raw": 4,
           "_apuracao": false
         },
         {
@@ -814,8 +814,8 @@
           "pol": "Maior",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 4.0,
-          "real_raw": 3.0,
+          "meta_raw": 4,
+          "real_raw": 3,
           "_apuracao": false
         },
         {
@@ -824,7 +824,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 63.57,
           "_apuracao": false
         },
@@ -834,7 +834,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN",
-          "meta_raw": 80.0,
+          "meta_raw": 80,
           "real_raw": 84.75,
           "_apuracao": false
         },
@@ -853,7 +853,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 70.0,
+          "meta_raw": 70,
           "real_raw": null,
           "_apuracao": true
         },
@@ -873,8 +873,8 @@
           "pol": "Maior",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 19258887.0,
-          "real_raw": 19532619.0,
+          "meta_raw": 19258887,
+          "real_raw": 19532619,
           "_apuracao": false
         },
         {
@@ -883,8 +883,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 81.0,
-          "real_raw": 95.0,
+          "meta_raw": 81,
+          "real_raw": 95,
           "_apuracao": false
         },
         {
@@ -913,8 +913,8 @@
           "pol": "Menor",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 8093499.0,
-          "real_raw": 1263166.0,
+          "meta_raw": 8093499,
+          "real_raw": 1263166,
           "_apuracao": false
         },
         {
@@ -923,8 +923,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 98.0,
+          "meta_raw": 90,
+          "real_raw": 98,
           "_apuracao": false
         },
         {
@@ -933,8 +933,8 @@
           "pol": "Menor",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 39.0,
-          "real_raw": 68.0,
+          "meta_raw": 39,
+          "real_raw": 68,
           "_apuracao": false
         },
         {
@@ -952,8 +952,8 @@
           "pol": "Maior",
           "unit": "km",
           "proc": "MAN",
-          "meta_raw": 2576.0,
-          "real_raw": 2403.0,
+          "meta_raw": 2576,
+          "real_raw": 2403,
           "_apuracao": false
         },
         {
@@ -971,8 +971,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 88.0,
-          "real_raw": 88.0,
+          "meta_raw": 88,
+          "real_raw": 88,
           "_apuracao": false
         },
         {
@@ -981,8 +981,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 107.0,
+          "meta_raw": 90,
+          "real_raw": 107,
           "_apuracao": false
         },
         {
@@ -991,8 +991,8 @@
           "pol": "Menor",
           "unit": "min",
           "proc": "MAN+OPE",
-          "meta_raw": 513.0,
-          "real_raw": 500.0,
+          "meta_raw": 513,
+          "real_raw": 500,
           "_apuracao": false
         }
       ],
@@ -1012,8 +1012,8 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 25.0,
-          "real_raw": 0.0
+          "meta_raw": 25,
+          "real_raw": 0
         },
         {
           "ind": "LPV – Liderança pela Vida",
@@ -1021,8 +1021,8 @@
           "pol": "Maior",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 4.0,
-          "real_raw": 4.0
+          "meta_raw": 4,
+          "real_raw": 4
         },
         {
           "ind": "Índice Guardião",
@@ -1030,8 +1030,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 100.0
+          "meta_raw": 90,
+          "real_raw": 100
         },
         {
           "ind": "Aderência de Execução ao Plano de Manutenção",
@@ -1039,7 +1039,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN",
-          "meta_raw": 80.0,
+          "meta_raw": 80,
           "real_raw": 89.5
         },
         {
@@ -1057,8 +1057,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 70.0,
-          "real_raw": 80.0
+          "meta_raw": 70,
+          "real_raw": 80
         },
         {
           "ind": "BRR",
@@ -1084,8 +1084,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 30.0,
-          "real_raw": 45.0
+          "meta_raw": 30,
+          "real_raw": 45
         },
         {
           "ind": "DEC Regional",
@@ -1120,8 +1120,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 53.0
+          "meta_raw": 90,
+          "real_raw": 53
         },
         {
           "ind": "Reincidência",
@@ -1129,8 +1129,8 @@
           "pol": "Menor",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 8.0,
-          "real_raw": 6.0
+          "meta_raw": 8,
+          "real_raw": 6
         },
         {
           "ind": "Horas Extras",
@@ -1147,8 +1147,8 @@
           "pol": "Maior",
           "unit": "km",
           "proc": "MAN",
-          "meta_raw": 202.0,
-          "real_raw": 265.0
+          "meta_raw": 202,
+          "real_raw": 265
         },
         {
           "ind": "Ocorrências acima de 24 horas",
@@ -1165,7 +1165,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 87.0,
+          "meta_raw": 87,
           "real_raw": null
         },
         {
@@ -1174,8 +1174,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 95.0,
-          "real_raw": 106.0
+          "meta_raw": 95,
+          "real_raw": 106
         },
         {
           "ind": "TMA",
@@ -1183,8 +1183,8 @@
           "pol": "Menor",
           "unit": "min",
           "proc": "MAN+OPE",
-          "meta_raw": 367.0,
-          "real_raw": 608.0
+          "meta_raw": 367,
+          "real_raw": 608
         }
       ],
       "Manutenção - Centro Sul": [
@@ -1194,7 +1194,7 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 6.0,
+          "meta_raw": 6,
           "real_raw": 5.8,
           "_apuracao": false
         },
@@ -1204,8 +1204,8 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 25.0,
-          "real_raw": 141.0,
+          "meta_raw": 25,
+          "real_raw": 141,
           "_apuracao": false
         },
         {
@@ -1214,8 +1214,8 @@
           "pol": "Maior",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 4.0,
-          "real_raw": 3.0,
+          "meta_raw": 4,
+          "real_raw": 3,
           "_apuracao": false
         },
         {
@@ -1224,7 +1224,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 65.91,
           "_apuracao": false
         },
@@ -1234,7 +1234,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN",
-          "meta_raw": 80.0,
+          "meta_raw": 80,
           "real_raw": 95.35,
           "_apuracao": false
         },
@@ -1253,7 +1253,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 70.0,
+          "meta_raw": 70,
           "real_raw": null,
           "_apuracao": true
         },
@@ -1273,8 +1273,8 @@
           "pol": "Maior",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 9478052.0,
-          "real_raw": 9736997.0,
+          "meta_raw": 9478052,
+          "real_raw": 9736997,
           "_apuracao": false
         },
         {
@@ -1283,8 +1283,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 73.0,
-          "real_raw": 77.0,
+          "meta_raw": 73,
+          "real_raw": 77,
           "_apuracao": false
         },
         {
@@ -1303,8 +1303,8 @@
           "pol": "Menor",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 109.0,
-          "real_raw": 118.0,
+          "meta_raw": 109,
+          "real_raw": 118,
           "_apuracao": false
         },
         {
@@ -1313,8 +1313,8 @@
           "pol": "Menor",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 7860417.0,
-          "real_raw": 6587414.0,
+          "meta_raw": 7860417,
+          "real_raw": 6587414,
           "_apuracao": false
         },
         {
@@ -1323,8 +1323,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 98.0,
+          "meta_raw": 90,
+          "real_raw": 98,
           "_apuracao": false
         },
         {
@@ -1333,8 +1333,8 @@
           "pol": "Menor",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 2.0,
-          "real_raw": 12.0,
+          "meta_raw": 2,
+          "real_raw": 12,
           "_apuracao": false
         },
         {
@@ -1352,8 +1352,8 @@
           "pol": "Maior",
           "unit": "km",
           "proc": "MAN",
-          "meta_raw": 636.0,
-          "real_raw": 578.0,
+          "meta_raw": 636,
+          "real_raw": 578,
           "_apuracao": false
         },
         {
@@ -1371,8 +1371,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 88.0,
-          "real_raw": 97.0,
+          "meta_raw": 88,
+          "real_raw": 97,
           "_apuracao": false
         },
         {
@@ -1381,8 +1381,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 107.0,
+          "meta_raw": 90,
+          "real_raw": 107,
           "_apuracao": false
         },
         {
@@ -1391,8 +1391,8 @@
           "pol": "Menor",
           "unit": "min",
           "proc": "MAN+OPE",
-          "meta_raw": 568.0,
-          "real_raw": 590.0,
+          "meta_raw": 568,
+          "real_raw": 590,
           "_apuracao": false
         }
       ],
@@ -1403,7 +1403,7 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 6.0,
+          "meta_raw": 6,
           "real_raw": 8.4,
           "_apuracao": false
         },
@@ -1413,8 +1413,8 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 25.0,
-          "real_raw": 14.0,
+          "meta_raw": 25,
+          "real_raw": 14,
           "_apuracao": false
         },
         {
@@ -1423,8 +1423,8 @@
           "pol": "Maior",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 4.0,
-          "real_raw": 2.0,
+          "meta_raw": 4,
+          "real_raw": 2,
           "_apuracao": false
         },
         {
@@ -1433,8 +1433,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 82.0,
+          "meta_raw": 90,
+          "real_raw": 82,
           "_apuracao": false
         },
         {
@@ -1443,7 +1443,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN",
-          "meta_raw": 80.0,
+          "meta_raw": 80,
           "real_raw": 87.7,
           "_apuracao": false
         },
@@ -1462,7 +1462,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 70.0,
+          "meta_raw": 70,
           "real_raw": null,
           "_apuracao": true
         },
@@ -1482,8 +1482,8 @@
           "pol": "Maior",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 12254379.0,
-          "real_raw": 13389550.0,
+          "meta_raw": 12254379,
+          "real_raw": 13389550,
           "_apuracao": false
         },
         {
@@ -1492,8 +1492,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 95.0,
-          "real_raw": 100.0,
+          "meta_raw": 95,
+          "real_raw": 100,
           "_apuracao": false
         },
         {
@@ -1512,8 +1512,8 @@
           "pol": "Menor",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 133.0,
-          "real_raw": 122.0,
+          "meta_raw": 133,
+          "real_raw": 122,
           "_apuracao": false
         },
         {
@@ -1522,8 +1522,8 @@
           "pol": "Menor",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 3844941.0,
-          "real_raw": 3646818.0,
+          "meta_raw": 3844941,
+          "real_raw": 3646818,
           "_apuracao": false
         },
         {
@@ -1532,8 +1532,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 95.0,
+          "meta_raw": 90,
+          "real_raw": 95,
           "_apuracao": false
         },
         {
@@ -1542,8 +1542,8 @@
           "pol": "Menor",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 13.0,
-          "real_raw": 9.0,
+          "meta_raw": 13,
+          "real_raw": 9,
           "_apuracao": false
         },
         {
@@ -1561,8 +1561,8 @@
           "pol": "Maior",
           "unit": "km",
           "proc": "MAN",
-          "meta_raw": 1309.0,
-          "real_raw": 1242.0,
+          "meta_raw": 1309,
+          "real_raw": 1242,
           "_apuracao": false
         },
         {
@@ -1580,8 +1580,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 88.0,
-          "real_raw": 86.0,
+          "meta_raw": 88,
+          "real_raw": 86,
           "_apuracao": false
         },
         {
@@ -1590,8 +1590,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 103.0,
+          "meta_raw": 90,
+          "real_raw": 103,
           "_apuracao": false
         },
         {
@@ -1600,8 +1600,8 @@
           "pol": "Menor",
           "unit": "min",
           "proc": "MAN+OPE",
-          "meta_raw": 623.0,
-          "real_raw": 578.0,
+          "meta_raw": 623,
+          "real_raw": 578,
           "_apuracao": false
         }
       ],
@@ -1612,7 +1612,7 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 6.0,
+          "meta_raw": 6,
           "real_raw": 6.2,
           "_apuracao": false
         },
@@ -1622,8 +1622,8 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 25.0,
-          "real_raw": 19.0,
+          "meta_raw": 25,
+          "real_raw": 19,
           "_apuracao": false
         },
         {
@@ -1632,8 +1632,8 @@
           "pol": "Maior",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 4.0,
-          "real_raw": 3.0,
+          "meta_raw": 4,
+          "real_raw": 3,
           "_apuracao": false
         },
         {
@@ -1642,7 +1642,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 67.07,
           "_apuracao": false
         },
@@ -1652,7 +1652,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN",
-          "meta_raw": 80.0,
+          "meta_raw": 80,
           "real_raw": 80.75,
           "_apuracao": false
         },
@@ -1671,7 +1671,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 70.0,
+          "meta_raw": 70,
           "real_raw": null,
           "_apuracao": true
         },
@@ -1691,8 +1691,8 @@
           "pol": "Maior",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 23777856.0,
-          "real_raw": 18078783.0,
+          "meta_raw": 23777856,
+          "real_raw": 18078783,
           "_apuracao": false
         },
         {
@@ -1701,8 +1701,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 51.0,
-          "real_raw": 85.0,
+          "meta_raw": 51,
+          "real_raw": 85,
           "_apuracao": false
         },
         {
@@ -1731,8 +1731,8 @@
           "pol": "Menor",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 9029404.0,
-          "real_raw": 7682389.0,
+          "meta_raw": 9029404,
+          "real_raw": 7682389,
           "_apuracao": false
         },
         {
@@ -1741,8 +1741,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 97.0,
+          "meta_raw": 90,
+          "real_raw": 97,
           "_apuracao": false
         },
         {
@@ -1751,8 +1751,8 @@
           "pol": "Menor",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 26.0,
-          "real_raw": 29.0,
+          "meta_raw": 26,
+          "real_raw": 29,
           "_apuracao": false
         },
         {
@@ -1770,8 +1770,8 @@
           "pol": "Maior",
           "unit": "km",
           "proc": "MAN",
-          "meta_raw": 1959.0,
-          "real_raw": 1848.0,
+          "meta_raw": 1959,
+          "real_raw": 1848,
           "_apuracao": false
         },
         {
@@ -1789,8 +1789,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 88.0,
-          "real_raw": 97.0,
+          "meta_raw": 88,
+          "real_raw": 97,
           "_apuracao": false
         },
         {
@@ -1799,8 +1799,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 98.0,
+          "meta_raw": 90,
+          "real_raw": 98,
           "_apuracao": false
         },
         {
@@ -1809,8 +1809,8 @@
           "pol": "Menor",
           "unit": "min",
           "proc": "MAN+OPE",
-          "meta_raw": 610.0,
-          "real_raw": 614.0,
+          "meta_raw": 610,
+          "real_raw": 614,
           "_apuracao": false
         }
       ],
@@ -1821,7 +1821,7 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 6.0,
+          "meta_raw": 6,
           "real_raw": 7.2,
           "_apuracao": false
         },
@@ -1831,7 +1831,7 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 25.0,
+          "meta_raw": 25,
           "real_raw": 3.09,
           "_apuracao": false
         },
@@ -1841,8 +1841,8 @@
           "pol": "Maior",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 4.0,
-          "real_raw": 6.0,
+          "meta_raw": 4,
+          "real_raw": 6,
           "_apuracao": false
         },
         {
@@ -1851,7 +1851,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 79.21,
           "_apuracao": false
         },
@@ -1861,7 +1861,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN",
-          "meta_raw": 80.0,
+          "meta_raw": 80,
           "real_raw": 86.15,
           "_apuracao": false
         },
@@ -1880,7 +1880,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 70.0,
+          "meta_raw": 70,
           "real_raw": null,
           "_apuracao": true
         },
@@ -1900,8 +1900,8 @@
           "pol": "Maior",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 20734375.0,
-          "real_raw": 20205433.0,
+          "meta_raw": 20734375,
+          "real_raw": 20205433,
           "_apuracao": false
         },
         {
@@ -1910,8 +1910,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 51.0,
-          "real_raw": 85.0,
+          "meta_raw": 51,
+          "real_raw": 85,
           "_apuracao": false
         },
         {
@@ -1940,8 +1940,8 @@
           "pol": "Menor",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 8555618.0,
-          "real_raw": 10261029.0,
+          "meta_raw": 8555618,
+          "real_raw": 10261029,
           "_apuracao": false
         },
         {
@@ -1950,8 +1950,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 96.0,
+          "meta_raw": 90,
+          "real_raw": 96,
           "_apuracao": false
         },
         {
@@ -1960,8 +1960,8 @@
           "pol": "Menor",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 55.0,
-          "real_raw": 156.0,
+          "meta_raw": 55,
+          "real_raw": 156,
           "_apuracao": false
         },
         {
@@ -1979,8 +1979,8 @@
           "pol": "Maior",
           "unit": "km",
           "proc": "MAN",
-          "meta_raw": 3358.0,
-          "real_raw": 3254.0,
+          "meta_raw": 3358,
+          "real_raw": 3254,
           "_apuracao": false
         },
         {
@@ -1998,8 +1998,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 88.0,
-          "real_raw": 85.0,
+          "meta_raw": 88,
+          "real_raw": 85,
           "_apuracao": false
         },
         {
@@ -2008,8 +2008,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 100.0,
+          "meta_raw": 90,
+          "real_raw": 100,
           "_apuracao": false
         },
         {
@@ -2018,8 +2018,8 @@
           "pol": "Menor",
           "unit": "min",
           "proc": "MAN+OPE",
-          "meta_raw": 572.0,
-          "real_raw": 584.0,
+          "meta_raw": 572,
+          "real_raw": 584,
           "_apuracao": false
         }
       ],
@@ -2030,7 +2030,7 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 6.0,
+          "meta_raw": 6,
           "real_raw": 4.2,
           "_apuracao": false
         },
@@ -2040,8 +2040,8 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 25.0,
-          "real_raw": 14.0,
+          "meta_raw": 25,
+          "real_raw": 14,
           "_apuracao": false
         },
         {
@@ -2050,8 +2050,8 @@
           "pol": "Maior",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 4.0,
-          "real_raw": 0.0,
+          "meta_raw": 4,
+          "real_raw": 0,
           "_apuracao": false
         },
         {
@@ -2060,7 +2060,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 65.99,
           "_apuracao": false
         },
@@ -2079,7 +2079,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 94.2767,
           "_apuracao": false
         },
@@ -2089,7 +2089,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 66.0,
+          "meta_raw": 66,
           "real_raw": 66.01,
           "_apuracao": false
         },
@@ -2109,8 +2109,8 @@
           "pol": "Maior",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 4641055.0,
-          "real_raw": 5023889.0,
+          "meta_raw": 4641055,
+          "real_raw": 5023889,
           "_apuracao": false
         },
         {
@@ -2119,8 +2119,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 81.0,
-          "real_raw": 95.0,
+          "meta_raw": 81,
+          "real_raw": 95,
           "_apuracao": false
         },
         {
@@ -2149,8 +2149,8 @@
           "pol": "Menor",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 12449260.0,
-          "real_raw": 11419174.0,
+          "meta_raw": 12449260,
+          "real_raw": 11419174,
           "_apuracao": false
         },
         {
@@ -2159,8 +2159,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 100.0,
+          "meta_raw": 90,
+          "real_raw": 100,
           "_apuracao": false
         },
         {
@@ -2169,7 +2169,7 @@
           "pol": "Menor",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 19.0,
+          "meta_raw": 19,
           "real_raw": 23.77,
           "_apuracao": false
         },
@@ -2198,7 +2198,7 @@
           "unit": "%",
           "proc": "OPE",
           "meta_raw": 2.91,
-          "real_raw": 4.0,
+          "real_raw": 4,
           "_apuracao": false
         },
         {
@@ -2207,8 +2207,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 88.0,
-          "real_raw": 93.0,
+          "meta_raw": 88,
+          "real_raw": 93,
           "_apuracao": false
         },
         {
@@ -2217,8 +2217,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 52.0,
-          "real_raw": 52.0,
+          "meta_raw": 52,
+          "real_raw": 52,
           "_apuracao": false
         },
         {
@@ -2227,8 +2227,8 @@
           "pol": "Menor",
           "unit": "min",
           "proc": "MAN+OPE",
-          "meta_raw": 513.0,
-          "real_raw": 500.0,
+          "meta_raw": 513,
+          "real_raw": 500,
           "_apuracao": false
         }
       ],
@@ -2248,8 +2248,8 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 25.0,
-          "real_raw": 0.0
+          "meta_raw": 25,
+          "real_raw": 0
         },
         {
           "ind": "LPV – Liderança pela Vida",
@@ -2257,8 +2257,8 @@
           "pol": "Maior",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 4.0,
-          "real_raw": 4.0
+          "meta_raw": 4,
+          "real_raw": 4
         },
         {
           "ind": "Índice Guardião",
@@ -2266,8 +2266,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 100.0
+          "meta_raw": 90,
+          "real_raw": 100
         },
         {
           "ind": "Aderência de Execução ao Plano de Manutenção",
@@ -2284,7 +2284,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 72.96
         },
         {
@@ -2293,7 +2293,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 69.0,
+          "meta_raw": 69,
           "real_raw": 55.36
         },
         {
@@ -2320,8 +2320,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 30.0,
-          "real_raw": 45.0
+          "meta_raw": 30,
+          "real_raw": 45
         },
         {
           "ind": "DEC Regional",
@@ -2356,8 +2356,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 100.0
+          "meta_raw": 90,
+          "real_raw": 100
         },
         {
           "ind": "Reincidência",
@@ -2401,7 +2401,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 87.0,
+          "meta_raw": 87,
           "real_raw": null
         },
         {
@@ -2410,8 +2410,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 57.0,
-          "real_raw": 51.0
+          "meta_raw": 57,
+          "real_raw": 51
         },
         {
           "ind": "TMA",
@@ -2419,8 +2419,8 @@
           "pol": "Menor",
           "unit": "min",
           "proc": "MAN+OPE",
-          "meta_raw": 367.0,
-          "real_raw": 608.0
+          "meta_raw": 367,
+          "real_raw": 608
         }
       ],
       "Operação - Centro Sul": [
@@ -2430,7 +2430,7 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 6.0,
+          "meta_raw": 6,
           "real_raw": 6.3,
           "_apuracao": false
         },
@@ -2440,8 +2440,8 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 25.0,
-          "real_raw": 4.0,
+          "meta_raw": 25,
+          "real_raw": 4,
           "_apuracao": false
         },
         {
@@ -2450,8 +2450,8 @@
           "pol": "Maior",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 4.0,
-          "real_raw": 0.0,
+          "meta_raw": 4,
+          "real_raw": 0,
           "_apuracao": false
         },
         {
@@ -2460,7 +2460,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 81.44,
           "_apuracao": false
         },
@@ -2479,7 +2479,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 95.3349,
           "_apuracao": false
         },
@@ -2489,7 +2489,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 64.0,
+          "meta_raw": 64,
           "real_raw": 59.03,
           "_apuracao": false
         },
@@ -2509,8 +2509,8 @@
           "pol": "Maior",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 1543061.0,
-          "real_raw": 3315367.0,
+          "meta_raw": 1543061,
+          "real_raw": 3315367,
           "_apuracao": false
         },
         {
@@ -2519,8 +2519,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 73.0,
-          "real_raw": 77.0,
+          "meta_raw": 73,
+          "real_raw": 77,
           "_apuracao": false
         },
         {
@@ -2539,8 +2539,8 @@
           "pol": "Menor",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 109.0,
-          "real_raw": 118.0,
+          "meta_raw": 109,
+          "real_raw": 118,
           "_apuracao": false
         },
         {
@@ -2549,8 +2549,8 @@
           "pol": "Menor",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 8306565.0,
-          "real_raw": 6816387.0,
+          "meta_raw": 8306565,
+          "real_raw": 6816387,
           "_apuracao": false
         },
         {
@@ -2559,8 +2559,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 100.0,
+          "meta_raw": 90,
+          "real_raw": 100,
           "_apuracao": false
         },
         {
@@ -2569,7 +2569,7 @@
           "pol": "Menor",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 14.0,
+          "meta_raw": 14,
           "real_raw": 14.54,
           "_apuracao": false
         },
@@ -2607,8 +2607,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 88.0,
-          "real_raw": 86.0,
+          "meta_raw": 88,
+          "real_raw": 86,
           "_apuracao": false
         },
         {
@@ -2617,8 +2617,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 60.0,
-          "real_raw": 58.0,
+          "meta_raw": 60,
+          "real_raw": 58,
           "_apuracao": false
         },
         {
@@ -2627,8 +2627,8 @@
           "pol": "Menor",
           "unit": "min",
           "proc": "MAN+OPE",
-          "meta_raw": 568.0,
-          "real_raw": 590.0,
+          "meta_raw": 568,
+          "real_raw": 590,
           "_apuracao": false
         }
       ],
@@ -2639,7 +2639,7 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 6.0,
+          "meta_raw": 6,
           "real_raw": 6.5,
           "_apuracao": false
         },
@@ -2649,8 +2649,8 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 25.0,
-          "real_raw": 18.0,
+          "meta_raw": 25,
+          "real_raw": 18,
           "_apuracao": false
         },
         {
@@ -2659,8 +2659,8 @@
           "pol": "Maior",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 4.0,
-          "real_raw": 0.0,
+          "meta_raw": 4,
+          "real_raw": 0,
           "_apuracao": false
         },
         {
@@ -2669,7 +2669,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 56.84,
           "_apuracao": false
         },
@@ -2688,7 +2688,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 84.7388,
           "_apuracao": false
         },
@@ -2698,7 +2698,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 66.0,
+          "meta_raw": 66,
           "real_raw": 63.68,
           "_apuracao": false
         },
@@ -2718,8 +2718,8 @@
           "pol": "Maior",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 4134205.0,
-          "real_raw": 7044546.0,
+          "meta_raw": 4134205,
+          "real_raw": 7044546,
           "_apuracao": false
         },
         {
@@ -2728,8 +2728,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 95.0,
-          "real_raw": 100.0,
+          "meta_raw": 95,
+          "real_raw": 100,
           "_apuracao": false
         },
         {
@@ -2748,8 +2748,8 @@
           "pol": "Menor",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 133.0,
-          "real_raw": 122.0,
+          "meta_raw": 133,
+          "real_raw": 122,
           "_apuracao": false
         },
         {
@@ -2758,8 +2758,8 @@
           "pol": "Menor",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 10075523.0,
-          "real_raw": 11768511.0,
+          "meta_raw": 10075523,
+          "real_raw": 11768511,
           "_apuracao": false
         },
         {
@@ -2768,8 +2768,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 100.0,
+          "meta_raw": 90,
+          "real_raw": 100,
           "_apuracao": false
         },
         {
@@ -2778,7 +2778,7 @@
           "pol": "Menor",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 17.0,
+          "meta_raw": 17,
           "real_raw": 23.87,
           "_apuracao": false
         },
@@ -2816,8 +2816,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 88.0,
-          "real_raw": 93.0,
+          "meta_raw": 88,
+          "real_raw": 93,
           "_apuracao": false
         },
         {
@@ -2826,8 +2826,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 56.0,
-          "real_raw": 53.0,
+          "meta_raw": 56,
+          "real_raw": 53,
           "_apuracao": false
         },
         {
@@ -2836,8 +2836,8 @@
           "pol": "Menor",
           "unit": "min",
           "proc": "MAN+OPE",
-          "meta_raw": 623.0,
-          "real_raw": 578.0,
+          "meta_raw": 623,
+          "real_raw": 578,
           "_apuracao": false
         }
       ],
@@ -2848,7 +2848,7 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 6.0,
+          "meta_raw": 6,
           "real_raw": 4.2,
           "_apuracao": false
         },
@@ -2858,8 +2858,8 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 25.0,
-          "real_raw": 17.0,
+          "meta_raw": 25,
+          "real_raw": 17,
           "_apuracao": false
         },
         {
@@ -2868,8 +2868,8 @@
           "pol": "Maior",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 4.0,
-          "real_raw": 4.0,
+          "meta_raw": 4,
+          "real_raw": 4,
           "_apuracao": false
         },
         {
@@ -2878,7 +2878,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 63.47,
           "_apuracao": false
         },
@@ -2897,7 +2897,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 88.2656,
           "_apuracao": false
         },
@@ -2907,7 +2907,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 64.0,
+          "meta_raw": 64,
           "real_raw": 59.77,
           "_apuracao": false
         },
@@ -2927,8 +2927,8 @@
           "pol": "Maior",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 3133253.0,
-          "real_raw": 3906739.0,
+          "meta_raw": 3133253,
+          "real_raw": 3906739,
           "_apuracao": false
         },
         {
@@ -2937,8 +2937,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 51.0,
-          "real_raw": 85.0,
+          "meta_raw": 51,
+          "real_raw": 85,
           "_apuracao": false
         },
         {
@@ -2967,8 +2967,8 @@
           "pol": "Menor",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 10675480.0,
-          "real_raw": 9794470.0,
+          "meta_raw": 10675480,
+          "real_raw": 9794470,
           "_apuracao": false
         },
         {
@@ -2977,8 +2977,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 100.0,
+          "meta_raw": 90,
+          "real_raw": 100,
           "_apuracao": false
         },
         {
@@ -2987,7 +2987,7 @@
           "pol": "Menor",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 17.0,
+          "meta_raw": 17,
           "real_raw": 18.13,
           "_apuracao": false
         },
@@ -3025,8 +3025,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 88.0,
-          "real_raw": 85.0,
+          "meta_raw": 88,
+          "real_raw": 85,
           "_apuracao": false
         },
         {
@@ -3035,8 +3035,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 56.0,
-          "real_raw": 54.0,
+          "meta_raw": 56,
+          "real_raw": 54,
           "_apuracao": false
         },
         {
@@ -3045,8 +3045,8 @@
           "pol": "Menor",
           "unit": "min",
           "proc": "MAN+OPE",
-          "meta_raw": 610.0,
-          "real_raw": 614.0,
+          "meta_raw": 610,
+          "real_raw": 614,
           "_apuracao": false
         }
       ],
@@ -3057,7 +3057,7 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 6.0,
+          "meta_raw": 6,
           "real_raw": 5.5,
           "_apuracao": false
         },
@@ -3067,8 +3067,8 @@
           "pol": "Menor",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 25.0,
-          "real_raw": 10.0,
+          "meta_raw": 25,
+          "real_raw": 10,
           "_apuracao": false
         },
         {
@@ -3077,8 +3077,8 @@
           "pol": "Maior",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 4.0,
-          "real_raw": 2.0,
+          "meta_raw": 4,
+          "real_raw": 2,
           "_apuracao": false
         },
         {
@@ -3087,7 +3087,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 78.37,
           "_apuracao": false
         },
@@ -3106,7 +3106,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "OPE",
-          "meta_raw": 90.0,
+          "meta_raw": 90,
           "real_raw": 96.6345,
           "_apuracao": false
         },
@@ -3116,7 +3116,7 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 81.0,
+          "meta_raw": 81,
           "real_raw": 77.1,
           "_apuracao": false
         },
@@ -3136,8 +3136,8 @@
           "pol": "Maior",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 3631778.0,
-          "real_raw": 5899727.0,
+          "meta_raw": 3631778,
+          "real_raw": 5899727,
           "_apuracao": false
         },
         {
@@ -3146,8 +3146,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 51.0,
-          "real_raw": 85.0,
+          "meta_raw": 51,
+          "real_raw": 85,
           "_apuracao": false
         },
         {
@@ -3176,8 +3176,8 @@
           "pol": "Menor",
           "unit": "R$",
           "proc": "MAN+OPE",
-          "meta_raw": 8207349.0,
-          "real_raw": 6863666.0,
+          "meta_raw": 8207349,
+          "real_raw": 6863666,
           "_apuracao": false
         },
         {
@@ -3186,8 +3186,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 90.0,
-          "real_raw": 100.0,
+          "meta_raw": 90,
+          "real_raw": 100,
           "_apuracao": false
         },
         {
@@ -3196,7 +3196,7 @@
           "pol": "Menor",
           "unit": "un",
           "proc": "MAN+OPE",
-          "meta_raw": 9.0,
+          "meta_raw": 9,
           "real_raw": 18.69,
           "_apuracao": false
         },
@@ -3234,8 +3234,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 88.0,
-          "real_raw": 92.0,
+          "meta_raw": 88,
+          "real_raw": 92,
           "_apuracao": false
         },
         {
@@ -3244,8 +3244,8 @@
           "pol": "Maior",
           "unit": "%",
           "proc": "MAN+OPE",
-          "meta_raw": 61.0,
-          "real_raw": 62.0,
+          "meta_raw": 61,
+          "real_raw": 62,
           "_apuracao": false
         },
         {
@@ -3254,8 +3254,8 @@
           "pol": "Menor",
           "unit": "min",
           "proc": "MAN+OPE",
-          "meta_raw": 572.0,
-          "real_raw": 584.0,
+          "meta_raw": 572,
+          "real_raw": 584,
           "_apuracao": false
         }
       ]
@@ -3284,8 +3284,115 @@
       "Operação - Vale"
     ]
   },
-  "creds_note": "senhas gerenciadas na plataforma",
-  "savedAt": "2026-06-23T00:00:00Z",
-  "savedBy": "init",
+  "creds": {
+    "CGU": [
+      {
+        "u": "admin",
+        "p": "admin123"
+      }
+    ],
+    "SUPTE": [
+      {
+        "u": "supte",
+        "p": "supte123"
+      }
+    ],
+    "GER": {
+      "Ger. Baixada/Oeste": [
+        {
+          "u": "ger.bo",
+          "p": "gerbo123"
+        }
+      ],
+      "Ger. Centro Sul/Sudoeste": [
+        {
+          "u": "ger.cs",
+          "p": "gercs123"
+        }
+      ],
+      "Ger. Leste/Vale": [
+        {
+          "u": "ger.lv",
+          "p": "gerlv123"
+        }
+      ]
+    },
+    "COORD": {
+      "Manutenção - Baixada": [
+        {
+          "u": "man.bx",
+          "p": "manbx123"
+        }
+      ],
+      "Manutenção - Barra": [
+        {
+          "u": "man.sw",
+          "p": "mansw123"
+        }
+      ],
+      "Manutenção - Centro Sul": [
+        {
+          "u": "man.cs",
+          "p": "mancs123"
+        }
+      ],
+      "Manutenção - Leste": [
+        {
+          "u": "man.lt",
+          "p": "manlt123"
+        }
+      ],
+      "Manutenção - Oeste": [
+        {
+          "u": "man.ot",
+          "p": "manot123"
+        }
+      ],
+      "Manutenção - Vale": [
+        {
+          "u": "man.vl",
+          "p": "manvl123"
+        }
+      ],
+      "Operação - Baixada": [
+        {
+          "u": "ope.bx",
+          "p": "opebx123"
+        }
+      ],
+      "Operação - Barra": [
+        {
+          "u": "ope.sw",
+          "p": "opesw123"
+        }
+      ],
+      "Operação - Centro Sul": [
+        {
+          "u": "ope.cs",
+          "p": "opecs123"
+        }
+      ],
+      "Operação - Leste": [
+        {
+          "u": "ope.lt",
+          "p": "opelt123"
+        }
+      ],
+      "Operação - Oeste": [
+        {
+          "u": "ope.ot",
+          "p": "opeot123"
+        }
+      ],
+      "Operação - Vale": [
+        {
+          "u": "ope.vl",
+          "p": "opevl123"
+        }
+      ]
+    }
+  },
+  "savedBy": "Administrador",
+  "savedAt": "2026-06-26T01:48:54.861Z",
   "version": 1
 }
