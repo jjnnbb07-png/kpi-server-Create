@@ -1,1 +1,3426 @@
-{"data": {"supte": [{"ind": "Excesso Velocidade", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 6.033333333333334, "real_raw": 5.8984499999999995}, {"ind": "IRL", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 25.0, "real_raw": 44.75}, {"ind": "LPV – Liderança pela Vida", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "un", "proc": "MAN+OPE", "meta_raw": 48.0, "real_raw": 34.0}, {"ind": "Índice Guardião", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 95.0, "real_raw": 83.0675}, {"ind": "Aderência de Execução ao Plano de Manutenção", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN", "meta_raw": 80.0, "real_raw": 87.19166666666666}, {"ind": "Aderência de Execução ao Plano de Operação", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "OPE", "meta_raw": 90.0, "real_raw": 90.16666666666667}, {"ind": "Atende e resolve (% atendimento na primeira visita)", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 69.0, "real_raw": 64.15333333333332}, {"ind": "BRR", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 84646382.73, "real_raw": 102925320.42}, {"ind": "CAPEX", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 76285845.0, "real_raw": 76416880.0}, {"ind": "Conjuntos dentro do limite DEC", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 67.16666666666667, "real_raw": 87.33333333333333}, {"ind": "DEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 3.6633333333333336, "real_raw": 3.77}, {"ind": "FEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 2.0483333333333333, "real_raw": 1.96}, {"ind": "OPEX", "pilar": "QUALIDADE", "pol": "Menor", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 74816653.0, "real_raw": 74891347.0}, {"ind": "PANOP", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 99.63616666666667}, {"ind": "Reincidência", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 233.0, "real_raw": 430.33000000000004}, {"ind": "Horas Extras", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "h", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "KM Inspecionados", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "km", "proc": "MAN", "meta_raw": 10619.0, "real_raw": 10487.0}, {"ind": "Ocorrências acima de 24 horas", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "%", "proc": "OPE", "meta_raw": 3.0866666666666664, "real_raw": 4.483333333333333}, {"ind": "PEX", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 88.0, "real_raw": 90.66666666666667}, {"ind": "Produtividade", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 73.25, "real_raw": 79.15833333333333}, {"ind": "TMA", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "min", "proc": "MAN+OPE", "meta_raw": 6908.0, "real_raw": 6942.0}], "gerencias": {"Ger. Baixada/Oeste": [{"ind": "Excesso Velocidade", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 6.0, "real_raw": 5.0}, {"ind": "IRL", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 25.0, "real_raw": 12.75}, {"ind": "LPV – Liderança pela Vida", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "un", "proc": "MAN+OPE", "meta_raw": 16.0, "real_raw": 15.0}, {"ind": "Índice Guardião", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 95.0, "real_raw": 79.0175}, {"ind": "Aderência de Execução ao Plano de Manutenção", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN", "meta_raw": 80.0, "real_raw": 82.775}, {"ind": "Aderência de Execução ao Plano de Operação", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "OPE", "meta_raw": 90.0, "real_raw": 91.0}, {"ind": "Atende e resolve (% atendimento na primeira visita)", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 67.5, "real_raw": 62.94499999999999}, {"ind": "BRR", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 35526721.39, "real_raw": 45275153.92}, {"ind": "CAPEX", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 35786415.0, "real_raw": 32312501.0}, {"ind": "Conjuntos dentro do limite DEC", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 66.0, "real_raw": 90.0}, {"ind": "DEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 3.91, "real_raw": 4.125}, {"ind": "FEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 2.125, "real_raw": 2.035}, {"ind": "OPEX", "pilar": "QUALIDADE", "pol": "Menor", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 34004992.0, "real_raw": 32600685.0}, {"ind": "PANOP", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 99.65174999999999}, {"ind": "Reincidência", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 101.0, "real_raw": 152.05}, {"ind": "Horas Extras", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "h", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "KM Inspecionados", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "km", "proc": "MAN", "meta_raw": 4538.0, "real_raw": 4472.0}, {"ind": "Ocorrências acima de 24 horas", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "%", "proc": "OPE", "meta_raw": 3.17, "real_raw": 4.6}, {"ind": "PEX", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 88.0, "real_raw": 91.0}, {"ind": "Produtividade", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 72.0, "real_raw": 78.5}, {"ind": "TMA", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "min", "proc": "MAN+OPE", "meta_raw": 2246.0, "real_raw": 2236.0}], "Ger. Centro Sul/Sudoeste": [{"ind": "Excesso Velocidade", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 6.1, "real_raw": 5.84535}, {"ind": "IRL", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 25.0, "real_raw": 33.75}, {"ind": "LPV – Liderança pela Vida", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "un", "proc": "MAN+OPE", "meta_raw": 16.0, "real_raw": 9.0}, {"ind": "Índice Guardião", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 95.0, "real_raw": 88.3425}, {"ind": "Aderência de Execução ao Plano de Manutenção", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN", "meta_raw": 80.0, "real_raw": 91.475}, {"ind": "Aderência de Execução ao Plano de Operação", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "OPE", "meta_raw": 90.0, "real_raw": 88.5}, {"ind": "Atende e resolve (% atendimento na primeira visita)", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 67.75, "real_raw": 59.035}, {"ind": "BRR", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 12373954.05, "real_raw": 15619267.94}, {"ind": "CAPEX", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 11472914.0, "real_raw": 10280883.0}, {"ind": "Conjuntos dentro do limite DEC", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 62.5, "real_raw": 79.5}, {"ind": "DEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 2.98, "real_raw": 3.08}, {"ind": "FEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 1.51, "real_raw": 1.545}, {"ind": "OPEX", "pilar": "QUALIDADE", "pol": "Menor", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 14618882.0, "real_raw": 13308568.0}, {"ind": "PANOP", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 99.54124999999999}, {"ind": "Reincidência", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 38.0, "real_raw": 55.04}, {"ind": "Horas Extras", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "h", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "KM Inspecionados", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "km", "proc": "MAN", "meta_raw": 1414.0, "real_raw": 1366.0}, {"ind": "Ocorrências acima de 24 horas", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "%", "proc": "OPE", "meta_raw": 2.81, "real_raw": 4.449999999999999}, {"ind": "PEX", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 88.0, "real_raw": 92.0}, {"ind": "Produtividade", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 73.5, "real_raw": 79.1925}, {"ind": "TMA", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "min", "proc": "MAN+OPE", "meta_raw": 2272.0, "real_raw": 2384.0}], "Ger. Leste/Vale": [{"ind": "Excesso Velocidade", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 6.0, "real_raw": 6.85}, {"ind": "IRL", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 25.0, "real_raw": 87.75}, {"ind": "LPV – Liderança pela Vida", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "un", "proc": "MAN+OPE", "meta_raw": 16.0, "real_raw": 10.0}, {"ind": "Índice Guardião", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 95.0, "real_raw": 81.8425}, {"ind": "Aderência de Execução ao Plano de Manutenção", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN", "meta_raw": 80.0, "real_raw": 87.32499999999999}, {"ind": "Aderência de Execução ao Plano de Operação", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "OPE", "meta_raw": 90.0, "real_raw": 91.0}, {"ind": "Atende e resolve (% atendimento na primeira visita)", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 71.75, "real_raw": 70.48}, {"ind": "BRR", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 36745707.29, "real_raw": 42030898.56}, {"ind": "CAPEX", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 29026516.0, "real_raw": 33823496.0}, {"ind": "Conjuntos dentro do limite DEC", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 73.0, "real_raw": 92.5}, {"ind": "DEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 4.1, "real_raw": 4.105}, {"ind": "FEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 2.51, "real_raw": 2.3}, {"ind": "OPEX", "pilar": "QUALIDADE", "pol": "Menor", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 26192779.0, "real_raw": 28982094.0}, {"ind": "PANOP", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 99.7155}, {"ind": "Reincidência", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 94.0, "real_raw": 223.24}, {"ind": "Horas Extras", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "h", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "KM Inspecionados", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "km", "proc": "MAN", "meta_raw": 4667.0, "real_raw": 4649.0}, {"ind": "Ocorrências acima de 24 horas", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "%", "proc": "OPE", "meta_raw": 3.2800000000000002, "real_raw": 4.4}, {"ind": "PEX", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 88.0, "real_raw": 89.0}, {"ind": "Produtividade", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 74.25, "real_raw": 79.7825}, {"ind": "TMA", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "min", "proc": "MAN+OPE", "meta_raw": 2390.0, "real_raw": 2322.0}]}, "ger_coord_map": {"Ger. Baixada/Oeste": ["Manutenção - Baixada", "Manutenção - Oeste", "Operação - Baixada", "Operação - Oeste"], "Ger. Centro Sul/Sudoeste": ["Manutenção - Centro Sul", "Manutenção - Barra", "Operação - Centro Sul", "Operação - Barra"], "Ger. Leste/Vale": ["Manutenção - Leste", "Manutenção - Vale", "Operação - Leste", "Operação - Vale"]}, "coords": {"Manutenção - Baixada": [{"ind": "Excesso Velocidade", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 6.0, "real_raw": 5.4, "_apuracao": false}, {"ind": "IRL", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 25.0, "real_raw": 3.0, "_apuracao": false}, {"ind": "LPV – Liderança pela Vida", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "un", "proc": "MAN+OPE", "meta_raw": 4.0, "real_raw": 8.0, "_apuracao": false}, {"ind": "Índice Guardião", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 100.0, "real_raw": 93.01, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Manutenção", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN", "meta_raw": 80.0, "real_raw": 84.7, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Operação", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "OPE", "meta_raw": null, "real_raw": null}, {"ind": "Atende e resolve (% atendimento na primeira visita)", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 70.0, "real_raw": null, "_apuracao": true}, {"ind": "BRR", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 13345089.0, "real_raw": 18754810.79, "_apuracao": false}, {"ind": "CAPEX", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 12332183.0, "real_raw": 12038030.0, "_apuracao": false}, {"ind": "Conjuntos dentro do limite DEC", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 81.0, "real_raw": 95.0, "_apuracao": false}, {"ind": "DEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 3.56, "real_raw": 3.67, "_apuracao": false}, {"ind": "FEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 2.01, "real_raw": 1.85, "_apuracao": false}, {"ind": "OPEX", "pilar": "QUALIDADE", "pol": "Menor", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 5256349.0, "real_raw": 6209111.0, "_apuracao": false}, {"ind": "PANOP", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 99.492, "_apuracao": false}, {"ind": "Reincidência", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 39.0, "real_raw": 77.0, "_apuracao": false}, {"ind": "Horas Extras", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "h", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "KM Inspecionados", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "km", "proc": "MAN", "meta_raw": 2579.0, "real_raw": 2567.0, "_apuracao": false}, {"ind": "Ocorrências acima de 24 horas", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "%", "proc": "OPE", "meta_raw": null, "real_raw": null}, {"ind": "PEX", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 88.0, "real_raw": 88.0, "_apuracao": false}, {"ind": "Produtividade", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 109.38, "_apuracao": false}, {"ind": "TMA", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "min", "proc": "MAN+OPE", "meta_raw": 513.0, "real_raw": 500.0, "_apuracao": false}], "Manutenção - Barra": [{"ind": "Excesso Velocidade", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 6.0, "real_raw": 5.3, "_apuracao": false}, {"ind": "IRL", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 25.0, "real_raw": 0.0, "_apuracao": false}, {"ind": "LPV – Liderança pela Vida", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "un", "proc": "MAN+OPE", "meta_raw": 4.0, "real_raw": 1.0, "_apuracao": false}, {"ind": "Índice Guardião", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 100.0, "real_raw": 86.54, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Manutenção", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN", "meta_raw": 80.0, "real_raw": 87.6, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Operação", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "OPE", "meta_raw": null, "real_raw": null}, {"ind": "Atende e resolve (% atendimento na primeira visita)", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 70.0, "real_raw": null, "_apuracao": true}, {"ind": "BRR", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 4609325.0, "real_raw": 4457604.89, "_apuracao": false}, {"ind": "CAPEX", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 3947400.0, "real_raw": 1225354.0, "_apuracao": false}, {"ind": "Conjuntos dentro do limite DEC", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 52.0, "real_raw": 82.0, "_apuracao": false}, {"ind": "DEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 3.63, "real_raw": 3.42, "_apuracao": false}, {"ind": "FEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 1.93, "real_raw": 1.87, "_apuracao": false}, {"ind": "OPEX", "pilar": "QUALIDADE", "pol": "Menor", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 1298231.0, "real_raw": 1831288.0, "_apuracao": false}, {"ind": "PANOP", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 99.038, "_apuracao": false}, {"ind": "Reincidência", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 8.0, "real_raw": 11.0, "_apuracao": false}, {"ind": "Horas Extras", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "h", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "KM Inspecionados", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "km", "proc": "MAN", "meta_raw": 778.0, "real_raw": 756.0, "_apuracao": false}, {"ind": "Ocorrências acima de 24 horas", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "%", "proc": "OPE", "meta_raw": null, "real_raw": null}, {"ind": "PEX", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 88.0, "real_raw": 95.0, "_apuracao": false}, {"ind": "Produtividade", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 100.63, "_apuracao": false}, {"ind": "TMA", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "min", "proc": "MAN+OPE", "meta_raw": 568.0, "real_raw": 600.0, "_apuracao": false}], "Manutenção - Centro Sul": [{"ind": "Excesso Velocidade", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 6.0, "real_raw": 5.7, "_apuracao": false}, {"ind": "IRL", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 25.0, "real_raw": 131.0, "_apuracao": false}, {"ind": "LPV – Liderança pela Vida", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "un", "proc": "MAN+OPE", "meta_raw": 4.0, "real_raw": 4.0, "_apuracao": false}, {"ind": "Índice Guardião", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 100.0, "real_raw": 85.39, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Manutenção", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN", "meta_raw": 80.0, "real_raw": 95.35, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Operação", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "OPE", "meta_raw": null, "real_raw": null}, {"ind": "Atende e resolve (% atendimento na primeira visita)", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 70.0, "real_raw": null, "_apuracao": true}, {"ind": "BRR", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 6636996.0, "real_raw": 9237151.36, "_apuracao": false}, {"ind": "CAPEX", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 5982453.0, "real_raw": 5740162.0, "_apuracao": false}, {"ind": "Conjuntos dentro do limite DEC", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 73.0, "real_raw": 77.0, "_apuracao": false}, {"ind": "DEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 2.33, "real_raw": 2.74, "_apuracao": false}, {"ind": "FEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 1.09, "real_raw": 1.22, "_apuracao": false}, {"ind": "OPEX", "pilar": "QUALIDADE", "pol": "Menor", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 5014086.0, "real_raw": 4660893.0, "_apuracao": false}, {"ind": "PANOP", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 99.127, "_apuracao": false}, {"ind": "Reincidência", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 2.0, "real_raw": 14.0, "_apuracao": false}, {"ind": "Horas Extras", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "h", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "KM Inspecionados", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "km", "proc": "MAN", "meta_raw": 636.0, "real_raw": 610.0, "_apuracao": false}, {"ind": "Ocorrências acima de 24 horas", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "%", "proc": "OPE", "meta_raw": null, "real_raw": null}, {"ind": "PEX", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 88.0, "real_raw": 97.0, "_apuracao": false}, {"ind": "Produtividade", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 107.14, "_apuracao": false}, {"ind": "TMA", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "min", "proc": "MAN+OPE", "meta_raw": 568.0, "real_raw": 592.0, "_apuracao": false}], "Manutenção - Leste": [{"ind": "Excesso Velocidade", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 6.0, "real_raw": 8.3, "_apuracao": false}, {"ind": "IRL", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 25.0, "real_raw": 14.0, "_apuracao": false}, {"ind": "LPV – Liderança pela Vida", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "un", "proc": "MAN+OPE", "meta_raw": 4.0, "real_raw": 2.0, "_apuracao": false}, {"ind": "Índice Guardião", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 100.0, "real_raw": 100.0, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Manutenção", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN", "meta_raw": 80.0, "real_raw": 87.1, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Operação", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "OPE", "meta_raw": null, "real_raw": null}, {"ind": "Atende e resolve (% atendimento na primeira visita)", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 70.0, "real_raw": null, "_apuracao": true}, {"ind": "BRR", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 12660421.0, "real_raw": 15553227.72, "_apuracao": false}, {"ind": "CAPEX", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 8072853.0, "real_raw": 8488436.0, "_apuracao": false}, {"ind": "Conjuntos dentro do limite DEC", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 95.0, "real_raw": 100.0, "_apuracao": false}, {"ind": "DEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 2.7, "real_raw": 2.7, "_apuracao": false}, {"ind": "FEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 1.33, "real_raw": 1.26, "_apuracao": false}, {"ind": "OPEX", "pilar": "QUALIDADE", "pol": "Menor", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 2255786.0, "real_raw": 2306559.0, "_apuracao": false}, {"ind": "PANOP", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 99.281, "_apuracao": false}, {"ind": "Reincidência", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 13.0, "real_raw": 13.0, "_apuracao": false}, {"ind": "Horas Extras", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "h", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "KM Inspecionados", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "km", "proc": "MAN", "meta_raw": 1309.0, "real_raw": 1320.0, "_apuracao": false}, {"ind": "Ocorrências acima de 24 horas", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "%", "proc": "OPE", "meta_raw": null, "real_raw": null}, {"ind": "PEX", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 88.0, "real_raw": 87.0, "_apuracao": false}, {"ind": "Produtividade", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 103.13, "_apuracao": false}, {"ind": "TMA", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "min", "proc": "MAN+OPE", "meta_raw": 623.0, "real_raw": 581.0, "_apuracao": false}], "Manutenção - Oeste": [{"ind": "Excesso Velocidade", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 6.0, "real_raw": 6.2, "_apuracao": false}, {"ind": "IRL", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 25.0, "real_raw": 17.0, "_apuracao": false}, {"ind": "LPV – Liderança pela Vida", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "un", "proc": "MAN+OPE", "meta_raw": 4.0, "real_raw": 3.0, "_apuracao": false}, {"ind": "Índice Guardião", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 100.0, "real_raw": 93.6, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Manutenção", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN", "meta_raw": 80.0, "real_raw": 80.85, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Operação", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "OPE", "meta_raw": null, "real_raw": null}, {"ind": "Atende e resolve (% atendimento na primeira visita)", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 70.0, "real_raw": null, "_apuracao": true}, {"ind": "BRR", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 19062762.0, "real_raw": 20209347.01, "_apuracao": false}, {"ind": "CAPEX", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 15679924.0, "real_raw": 11343843.0, "_apuracao": false}, {"ind": "Conjuntos dentro do limite DEC", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 51.0, "real_raw": 85.0, "_apuracao": false}, {"ind": "DEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 4.26, "real_raw": 4.58, "_apuracao": false}, {"ind": "FEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 2.24, "real_raw": 2.22, "_apuracao": false}, {"ind": "OPEX", "pilar": "QUALIDADE", "pol": "Menor", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 5623903.0, "real_raw": 5177930.0, "_apuracao": false}, {"ind": "PANOP", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 99.115, "_apuracao": false}, {"ind": "Reincidência", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 26.0, "real_raw": 33.0, "_apuracao": false}, {"ind": "Horas Extras", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "h", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "KM Inspecionados", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "km", "proc": "MAN", "meta_raw": 1959.0, "real_raw": 1905.0, "_apuracao": false}, {"ind": "Ocorrências acima de 24 horas", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "%", "proc": "OPE", "meta_raw": null, "real_raw": null}, {"ind": "PEX", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 88.0, "real_raw": 97.0, "_apuracao": false}, {"ind": "Produtividade", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 97.62, "_apuracao": false}, {"ind": "TMA", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "min", "proc": "MAN+OPE", "meta_raw": 610.0, "real_raw": 618.0, "_apuracao": false}], "Manutenção - Vale": [{"ind": "Excesso Velocidade", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 6.0, "real_raw": 7.1, "_apuracao": false}, {"ind": "IRL", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 25.0, "real_raw": 309.0, "_apuracao": false}, {"ind": "LPV – Liderança pela Vida", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "un", "proc": "MAN+OPE", "meta_raw": 4.0, "real_raw": 6.0, "_apuracao": false}, {"ind": "Índice Guardião", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 100.0, "real_raw": 92.16, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Manutenção", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN", "meta_raw": 80.0, "real_raw": 87.55, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Operação", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "OPE", "meta_raw": null, "real_raw": null}, {"ind": "Atende e resolve (% atendimento na primeira visita)", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 70.0, "real_raw": null, "_apuracao": true}, {"ind": "BRR", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 21174973.0, "real_raw": 17983620.47, "_apuracao": false}, {"ind": "CAPEX", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 13187680.0, "real_raw": 12390787.0, "_apuracao": false}, {"ind": "Conjuntos dentro do limite DEC", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 51.0, "real_raw": 85.0, "_apuracao": false}, {"ind": "DEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 5.5, "real_raw": 5.51, "_apuracao": false}, {"ind": "FEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 3.69, "real_raw": 3.34, "_apuracao": false}, {"ind": "OPEX", "pilar": "QUALIDADE", "pol": "Menor", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 5654121.0, "real_raw": 8043358.0, "_apuracao": false}, {"ind": "PANOP", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 99.581, "_apuracao": false}, {"ind": "Reincidência", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 55.0, "real_raw": 178.0, "_apuracao": false}, {"ind": "Horas Extras", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "h", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "KM Inspecionados", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "km", "proc": "MAN", "meta_raw": 3358.0, "real_raw": 3329.0, "_apuracao": false}, {"ind": "Ocorrências acima de 24 horas", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "%", "proc": "OPE", "meta_raw": null, "real_raw": null}, {"ind": "PEX", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 88.0, "real_raw": 85.0, "_apuracao": false}, {"ind": "Produtividade", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 100.0, "_apuracao": false}, {"ind": "TMA", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "min", "proc": "MAN+OPE", "meta_raw": 572.0, "real_raw": 580.0, "_apuracao": false}], "Operação - Baixada": [{"ind": "Excesso Velocidade", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 6.0, "real_raw": 4.2, "_apuracao": false}, {"ind": "IRL", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 25.0, "real_raw": 14.0, "_apuracao": false}, {"ind": "LPV – Liderança pela Vida", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "un", "proc": "MAN+OPE", "meta_raw": 4.0, "real_raw": 0.0, "_apuracao": false}, {"ind": "Índice Guardião", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 65.99, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Manutenção", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN", "meta_raw": null, "real_raw": null}, {"ind": "Aderência de Execução ao Plano de Operação", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "OPE", "meta_raw": 90.0, "real_raw": 94.0, "_apuracao": false}, {"ind": "Atende e resolve (% atendimento na primeira visita)", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 66.0, "real_raw": 66.07, "_apuracao": false}, {"ind": "BRR", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 1735585.47, "real_raw": 3664994.67, "_apuracao": false}, {"ind": "CAPEX", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 4641055.0, "real_raw": 5023889.0, "_apuracao": false}, {"ind": "Conjuntos dentro do limite DEC", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 81.0, "real_raw": 95.0, "_apuracao": false}, {"ind": "DEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 3.56, "real_raw": 3.67, "_apuracao": false}, {"ind": "FEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 2.01, "real_raw": 1.85, "_apuracao": false}, {"ind": "OPEX", "pilar": "QUALIDADE", "pol": "Menor", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 12449260.0, "real_raw": 11419174.0, "_apuracao": false}, {"ind": "PANOP", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 100.0, "_apuracao": false}, {"ind": "Reincidência", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 19.0, "real_raw": 23.85, "_apuracao": false}, {"ind": "Horas Extras", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "h", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "KM Inspecionados", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "km", "proc": "MAN", "meta_raw": null, "real_raw": null}, {"ind": "Ocorrências acima de 24 horas", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "%", "proc": "OPE", "meta_raw": 2.91, "real_raw": 4.0, "_apuracao": false}, {"ind": "PEX", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 88.0, "real_raw": 94.0, "_apuracao": false}, {"ind": "Produtividade", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 52.0, "real_raw": 52.0, "_apuracao": false}, {"ind": "TMA", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "min", "proc": "MAN+OPE", "meta_raw": 513.0, "real_raw": 500.0, "_apuracao": false}], "Operação - Barra": [{"ind": "Excesso Velocidade", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 6.4, "real_raw": 6.0814}, {"ind": "IRL", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 25.0, "real_raw": 0.0}, {"ind": "LPV – Liderança pela Vida", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "un", "proc": "MAN+OPE", "meta_raw": 4.0, "real_raw": 4.0}, {"ind": "Índice Guardião", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 100.0}, {"ind": "Aderência de Execução ao Plano de Manutenção", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN", "meta_raw": null, "real_raw": null}, {"ind": "Aderência de Execução ao Plano de Operação", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "OPE", "meta_raw": 90.0, "real_raw": 82.0, "_apuracao": false}, {"ind": "Atende e resolve (% atendimento na primeira visita)", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 67.0, "real_raw": 58.89, "_apuracao": false}, {"ind": "BRR", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "CAPEX", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "Conjuntos dentro do limite DEC", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 52.0, "real_raw": 82.0, "_apuracao": false}, {"ind": "DEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 3.63, "real_raw": 3.42, "_apuracao": false}, {"ind": "FEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 1.93, "real_raw": 1.87, "_apuracao": false}, {"ind": "OPEX", "pilar": "QUALIDADE", "pol": "Menor", "unit": "R$", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "PANOP", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 100.0, "_apuracao": false}, {"ind": "Reincidência", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 14.0, "real_raw": 15.6, "_apuracao": false}, {"ind": "Horas Extras", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "h", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "KM Inspecionados", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "km", "proc": "MAN", "meta_raw": null, "real_raw": null}, {"ind": "Ocorrências acima de 24 horas", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "%", "proc": "OPE", "meta_raw": 2.81, "real_raw": 4.1, "_apuracao": false}, {"ind": "PEX", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 88.0, "real_raw": 90.0, "_apuracao": false}, {"ind": "Produtividade", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 54.0, "real_raw": 51.0, "_apuracao": false}, {"ind": "TMA", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "min", "proc": "MAN+OPE", "meta_raw": 568.0, "real_raw": 600.0, "_apuracao": false}], "Operação - Centro Sul": [{"ind": "Excesso Velocidade", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 6.0, "real_raw": 6.3, "_apuracao": false}, {"ind": "IRL", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 25.0, "real_raw": 4.0, "_apuracao": false}, {"ind": "LPV – Liderança pela Vida", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "un", "proc": "MAN+OPE", "meta_raw": 4.0, "real_raw": 0.0, "_apuracao": false}, {"ind": "Índice Guardião", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 81.44, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Manutenção", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN", "meta_raw": null, "real_raw": null}, {"ind": "Aderência de Execução ao Plano de Operação", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "OPE", "meta_raw": 90.0, "real_raw": 95.0, "_apuracao": false}, {"ind": "Atende e resolve (% atendimento na primeira visita)", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 64.0, "real_raw": 59.18, "_apuracao": false}, {"ind": "BRR", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 1127633.05, "real_raw": 1924511.69, "_apuracao": false}, {"ind": "CAPEX", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 1543061.0, "real_raw": 3315367.0, "_apuracao": false}, {"ind": "Conjuntos dentro do limite DEC", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 73.0, "real_raw": 77.0, "_apuracao": false}, {"ind": "DEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 2.33, "real_raw": 2.74, "_apuracao": false}, {"ind": "FEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 1.09, "real_raw": 1.22, "_apuracao": false}, {"ind": "OPEX", "pilar": "QUALIDADE", "pol": "Menor", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 8306565.0, "real_raw": 6816387.0, "_apuracao": false}, {"ind": "PANOP", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 100.0, "_apuracao": false}, {"ind": "Reincidência", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 14.0, "real_raw": 14.44, "_apuracao": false}, {"ind": "Horas Extras", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "h", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "KM Inspecionados", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "km", "proc": "MAN", "meta_raw": null, "real_raw": null}, {"ind": "Ocorrências acima de 24 horas", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "%", "proc": "OPE", "meta_raw": 2.81, "real_raw": 4.8, "_apuracao": false}, {"ind": "PEX", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 88.0, "real_raw": 86.0, "_apuracao": false}, {"ind": "Produtividade", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 60.0, "real_raw": 58.0, "_apuracao": false}, {"ind": "TMA", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "min", "proc": "MAN+OPE", "meta_raw": 568.0, "real_raw": 592.0, "_apuracao": false}], "Operação - Leste": [{"ind": "Excesso Velocidade", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 6.0, "real_raw": 6.5, "_apuracao": false}, {"ind": "IRL", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 25.0, "real_raw": 18.0, "_apuracao": false}, {"ind": "LPV – Liderança pela Vida", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "un", "proc": "MAN+OPE", "meta_raw": 4.0, "real_raw": 0.0, "_apuracao": false}, {"ind": "Índice Guardião", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 56.84, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Manutenção", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN", "meta_raw": null, "real_raw": null}, {"ind": "Aderência de Execução ao Plano de Operação", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "OPE", "meta_raw": 90.0, "real_raw": 85.0, "_apuracao": false}, {"ind": "Atende e resolve (% atendimento na primeira visita)", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 66.0, "real_raw": 63.77, "_apuracao": false}, {"ind": "BRR", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 1539911.77, "real_raw": 4601228.39, "_apuracao": false}, {"ind": "CAPEX", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 4134205.0, "real_raw": 7044546.0, "_apuracao": false}, {"ind": "Conjuntos dentro do limite DEC", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 95.0, "real_raw": 100.0, "_apuracao": false}, {"ind": "DEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 2.7, "real_raw": 2.7, "_apuracao": false}, {"ind": "FEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 1.33, "real_raw": 1.26, "_apuracao": false}, {"ind": "OPEX", "pilar": "QUALIDADE", "pol": "Menor", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 10075523.0, "real_raw": 11768511.0, "_apuracao": false}, {"ind": "PANOP", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 100.0, "_apuracao": false}, {"ind": "Reincidência", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 17.0, "real_raw": 24.0, "_apuracao": false}, {"ind": "Horas Extras", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "h", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "KM Inspecionados", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "km", "proc": "MAN", "meta_raw": null, "real_raw": null}, {"ind": "Ocorrências acima de 24 horas", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "%", "proc": "OPE", "meta_raw": 4.48, "real_raw": 7.5, "_apuracao": false}, {"ind": "PEX", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 88.0, "real_raw": 92.0, "_apuracao": false}, {"ind": "Produtividade", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 56.0, "real_raw": 53.0, "_apuracao": false}, {"ind": "TMA", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "min", "proc": "MAN+OPE", "meta_raw": 623.0, "real_raw": 581.0, "_apuracao": false}], "Operação - Oeste": [{"ind": "Excesso Velocidade", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 6.0, "real_raw": 4.2, "_apuracao": false}, {"ind": "IRL", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 25.0, "real_raw": 17.0, "_apuracao": false}, {"ind": "LPV – Liderança pela Vida", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "un", "proc": "MAN+OPE", "meta_raw": 4.0, "real_raw": 4.0, "_apuracao": false}, {"ind": "Índice Guardião", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 63.47, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Manutenção", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN", "meta_raw": null, "real_raw": null}, {"ind": "Aderência de Execução ao Plano de Operação", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "OPE", "meta_raw": 90.0, "real_raw": 88.0, "_apuracao": false}, {"ind": "Atende e resolve (% atendimento na primeira visita)", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 64.0, "real_raw": 59.82, "_apuracao": false}, {"ind": "BRR", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 1383284.92, "real_raw": 2646001.45, "_apuracao": false}, {"ind": "CAPEX", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 3133253.0, "real_raw": 3906739.0, "_apuracao": false}, {"ind": "Conjuntos dentro do limite DEC", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 51.0, "real_raw": 85.0, "_apuracao": false}, {"ind": "DEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 4.26, "real_raw": 4.58, "_apuracao": false}, {"ind": "FEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 2.24, "real_raw": 2.22, "_apuracao": false}, {"ind": "OPEX", "pilar": "QUALIDADE", "pol": "Menor", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 10675480.0, "real_raw": 9794470.0, "_apuracao": false}, {"ind": "PANOP", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 100.0, "_apuracao": false}, {"ind": "Reincidência", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 17.0, "real_raw": 18.2, "_apuracao": false}, {"ind": "Horas Extras", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "h", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "KM Inspecionados", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "km", "proc": "MAN", "meta_raw": null, "real_raw": null}, {"ind": "Ocorrências acima de 24 horas", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "%", "proc": "OPE", "meta_raw": 3.43, "real_raw": 5.2, "_apuracao": false}, {"ind": "PEX", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 88.0, "real_raw": 85.0, "_apuracao": false}, {"ind": "Produtividade", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 56.0, "real_raw": 55.0, "_apuracao": false}, {"ind": "TMA", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "min", "proc": "MAN+OPE", "meta_raw": 610.0, "real_raw": 618.0, "_apuracao": false}], "Operação - Vale": [{"ind": "Excesso Velocidade", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 6.0, "real_raw": 5.5, "_apuracao": false}, {"ind": "IRL", "pilar": "SEGURANÇA", "pol": "Menor", "unit": "%", "proc": "MAN+OPE", "meta_raw": 25.0, "real_raw": 10.0, "_apuracao": false}, {"ind": "LPV – Liderança pela Vida", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "un", "proc": "MAN+OPE", "meta_raw": 4.0, "real_raw": 2.0, "_apuracao": false}, {"ind": "Índice Guardião", "pilar": "SEGURANÇA", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 78.37, "_apuracao": false}, {"ind": "Aderência de Execução ao Plano de Manutenção", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN", "meta_raw": null, "real_raw": null}, {"ind": "Aderência de Execução ao Plano de Operação", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "OPE", "meta_raw": 90.0, "real_raw": 97.0, "_apuracao": false}, {"ind": "Atende e resolve (% atendimento na primeira visita)", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 81.0, "real_raw": 77.19, "_apuracao": false}, {"ind": "BRR", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 1370401.52, "real_raw": 3892821.98, "_apuracao": false}, {"ind": "CAPEX", "pilar": "QUALIDADE", "pol": "Maior", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 3631778.0, "real_raw": 5899727.0, "_apuracao": false}, {"ind": "Conjuntos dentro do limite DEC", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 51.0, "real_raw": 85.0, "_apuracao": false}, {"ind": "DEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 5.5, "real_raw": 5.51, "_apuracao": false}, {"ind": "FEC Regional", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 3.69, "real_raw": 3.34, "_apuracao": false}, {"ind": "OPEX", "pilar": "QUALIDADE", "pol": "Menor", "unit": "R$", "proc": "MAN+OPE", "meta_raw": 8207349.0, "real_raw": 6863666.0, "_apuracao": false}, {"ind": "PANOP", "pilar": "QUALIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 90.0, "real_raw": 100.0, "_apuracao": false}, {"ind": "Reincidência", "pilar": "QUALIDADE", "pol": "Menor", "unit": "un", "proc": "MAN+OPE", "meta_raw": 9.0, "real_raw": 8.24, "_apuracao": false}, {"ind": "Horas Extras", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "h", "proc": "MAN+OPE", "meta_raw": null, "real_raw": null}, {"ind": "KM Inspecionados", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "km", "proc": "MAN", "meta_raw": null, "real_raw": null}, {"ind": "Ocorrências acima de 24 horas", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "%", "proc": "OPE", "meta_raw": 2.08, "real_raw": 1.3, "_apuracao": false}, {"ind": "PEX", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 88.0, "real_raw": 92.0, "_apuracao": false}, {"ind": "Produtividade", "pilar": "PRODUTIVIDADE", "pol": "Maior", "unit": "%", "proc": "MAN+OPE", "meta_raw": 61.0, "real_raw": 63.0, "_apuracao": false}, {"ind": "TMA", "pilar": "PRODUTIVIDADE", "pol": "Menor", "unit": "min", "proc": "MAN+OPE", "meta_raw": 572.0, "real_raw": 580.0, "_apuracao": false}]}, "coord_display": {"Manutenção - Barra": "Manutenção - Sudoeste", "Operação - Barra": "Operação - Sudoeste"}, "ger_list": ["Ger. Baixada/Oeste", "Ger. Centro Sul/Sudoeste", "Ger. Leste/Vale"], "coord_list": ["Manutenção - Baixada", "Manutenção - Barra", "Manutenção - Centro Sul", "Manutenção - Leste", "Manutenção - Oeste", "Manutenção - Vale", "Operação - Baixada", "Operação - Barra", "Operação - Centro Sul", "Operação - Leste", "Operação - Oeste", "Operação - Vale"]}, "savedBy": "admin", "savedAt": "2026-06-26T12:00:00Z"}
+{
+  "data": {
+    "supte": [
+      {
+        "ind": "Excesso Velocidade",
+        "pilar": "SEGURANÇA",
+        "pol": "Menor",
+        "unit": "%",
+        "proc": "MAN+OPE",
+        "meta_raw": 6.033333333333334,
+        "real_raw": 5.8984499999999995
+      },
+      {
+        "ind": "IRL",
+        "pilar": "SEGURANÇA",
+        "pol": "Menor",
+        "unit": "%",
+        "proc": "MAN+OPE",
+        "meta_raw": 25,
+        "real_raw": 44.75
+      },
+      {
+        "ind": "LPV – Liderança pela Vida",
+        "pilar": "SEGURANÇA",
+        "pol": "Maior",
+        "unit": "un",
+        "proc": "MAN+OPE",
+        "meta_raw": 48,
+        "real_raw": 34
+      },
+      {
+        "ind": "Índice Guardião",
+        "pilar": "SEGURANÇA",
+        "pol": "Maior",
+        "unit": "%",
+        "proc": "MAN+OPE",
+        "meta_raw": 95,
+        "real_raw": 83.0675
+      },
+      {
+        "ind": "Aderência de Execução ao Plano de Manutenção",
+        "pilar": "QUALIDADE",
+        "pol": "Maior",
+        "unit": "%",
+        "proc": "MAN",
+        "meta_raw": 80,
+        "real_raw": 87.19166666666666
+      },
+      {
+        "ind": "Aderência de Execução ao Plano de Operação",
+        "pilar": "QUALIDADE",
+        "pol": "Maior",
+        "unit": "%",
+        "proc": "OPE",
+        "meta_raw": 90,
+        "real_raw": 90.16666666666667
+      },
+      {
+        "ind": "Atende e resolve (% atendimento na primeira visita)",
+        "pilar": "QUALIDADE",
+        "pol": "Maior",
+        "unit": "%",
+        "proc": "MAN+OPE",
+        "meta_raw": 69,
+        "real_raw": 64.15333333333332
+      },
+      {
+        "ind": "BRR",
+        "pilar": "QUALIDADE",
+        "pol": "Maior",
+        "unit": "R$",
+        "proc": "MAN+OPE",
+        "meta_raw": 84646382.73,
+        "real_raw": 102925320.42
+      },
+      {
+        "ind": "CAPEX",
+        "pilar": "QUALIDADE",
+        "pol": "Maior",
+        "unit": "R$",
+        "proc": "MAN+OPE",
+        "meta_raw": 76285845,
+        "real_raw": 76416880
+      },
+      {
+        "ind": "Conjuntos dentro do limite DEC",
+        "pilar": "QUALIDADE",
+        "pol": "Maior",
+        "unit": "%",
+        "proc": "MAN+OPE",
+        "meta_raw": 67.16666666666667,
+        "real_raw": 87.33333333333333
+      },
+      {
+        "ind": "DEC Regional",
+        "pilar": "QUALIDADE",
+        "pol": "Menor",
+        "unit": "un",
+        "proc": "MAN+OPE",
+        "meta_raw": 3.6633333333333336,
+        "real_raw": 3.77
+      },
+      {
+        "ind": "FEC Regional",
+        "pilar": "QUALIDADE",
+        "pol": "Menor",
+        "unit": "un",
+        "proc": "MAN+OPE",
+        "meta_raw": 2.0483333333333333,
+        "real_raw": 1.96
+      },
+      {
+        "ind": "OPEX",
+        "pilar": "QUALIDADE",
+        "pol": "Menor",
+        "unit": "R$",
+        "proc": "MAN+OPE",
+        "meta_raw": 74816653,
+        "real_raw": 74891347
+      },
+      {
+        "ind": "PANOP",
+        "pilar": "QUALIDADE",
+        "pol": "Maior",
+        "unit": "%",
+        "proc": "MAN+OPE",
+        "meta_raw": 90,
+        "real_raw": 99.63616666666667
+      },
+      {
+        "ind": "Reincidência",
+        "pilar": "QUALIDADE",
+        "pol": "Menor",
+        "unit": "un",
+        "proc": "MAN+OPE",
+        "meta_raw": 233,
+        "real_raw": 430.33000000000004
+      },
+      {
+        "ind": "Horas Extras",
+        "pilar": "PRODUTIVIDADE",
+        "pol": "Menor",
+        "unit": "h",
+        "proc": "MAN+OPE",
+        "meta_raw": null,
+        "real_raw": null
+      },
+      {
+        "ind": "KM Inspecionados",
+        "pilar": "PRODUTIVIDADE",
+        "pol": "Maior",
+        "unit": "km",
+        "proc": "MAN",
+        "meta_raw": 10619,
+        "real_raw": 10487
+      },
+      {
+        "ind": "Ocorrências acima de 24 horas",
+        "pilar": "PRODUTIVIDADE",
+        "pol": "Menor",
+        "unit": "%",
+        "proc": "OPE",
+        "meta_raw": 3.0866666666666664,
+        "real_raw": 4.483333333333333
+      },
+      {
+        "ind": "PEX",
+        "pilar": "PRODUTIVIDADE",
+        "pol": "Maior",
+        "unit": "%",
+        "proc": "MAN+OPE",
+        "meta_raw": 88,
+        "real_raw": 90.66666666666667
+      },
+      {
+        "ind": "Produtividade",
+        "pilar": "PRODUTIVIDADE",
+        "pol": "Maior",
+        "unit": "%",
+        "proc": "MAN+OPE",
+        "meta_raw": 73.25,
+        "real_raw": 79.15833333333333
+      },
+      {
+        "ind": "TMA",
+        "pilar": "PRODUTIVIDADE",
+        "pol": "Menor",
+        "unit": "min",
+        "proc": "MAN+OPE",
+        "meta_raw": 6908,
+        "real_raw": 6942
+      }
+    ],
+    "gerencias": {
+      "Ger. Baixada/Oeste": [
+        {
+          "ind": "Excesso Velocidade",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 6,
+          "real_raw": 5
+        },
+        {
+          "ind": "IRL",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 25,
+          "real_raw": 12.75
+        },
+        {
+          "ind": "LPV – Liderança pela Vida",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 16,
+          "real_raw": 15
+        },
+        {
+          "ind": "Índice Guardião",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 95,
+          "real_raw": 79.0175
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Manutenção",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN",
+          "meta_raw": 80,
+          "real_raw": 82.775
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Operação",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 90,
+          "real_raw": 91
+        },
+        {
+          "ind": "Atende e resolve (% atendimento na primeira visita)",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 67.5,
+          "real_raw": 62.94499999999999
+        },
+        {
+          "ind": "BRR",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 35526721.39,
+          "real_raw": 45275153.92
+        },
+        {
+          "ind": "CAPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 35786415,
+          "real_raw": 32312501
+        },
+        {
+          "ind": "Conjuntos dentro do limite DEC",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 66,
+          "real_raw": 90
+        },
+        {
+          "ind": "DEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 3.91,
+          "real_raw": 4.125
+        },
+        {
+          "ind": "FEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 2.125,
+          "real_raw": 2.035
+        },
+        {
+          "ind": "OPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 34004992,
+          "real_raw": 32600685
+        },
+        {
+          "ind": "PANOP",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 99.65174999999999
+        },
+        {
+          "ind": "Reincidência",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 101,
+          "real_raw": 152.05
+        },
+        {
+          "ind": "Horas Extras",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "h",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "KM Inspecionados",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "km",
+          "proc": "MAN",
+          "meta_raw": 4538,
+          "real_raw": 4472
+        },
+        {
+          "ind": "Ocorrências acima de 24 horas",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 3.17,
+          "real_raw": 4.6
+        },
+        {
+          "ind": "PEX",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 88,
+          "real_raw": 91
+        },
+        {
+          "ind": "Produtividade",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 72,
+          "real_raw": 78.5
+        },
+        {
+          "ind": "TMA",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "min",
+          "proc": "MAN+OPE",
+          "meta_raw": 2246,
+          "real_raw": 2236
+        }
+      ],
+      "Ger. Centro Sul/Sudoeste": [
+        {
+          "ind": "Excesso Velocidade",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 6.1,
+          "real_raw": 5.84535
+        },
+        {
+          "ind": "IRL",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 25,
+          "real_raw": 33.75
+        },
+        {
+          "ind": "LPV – Liderança pela Vida",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 16,
+          "real_raw": 9
+        },
+        {
+          "ind": "Índice Guardião",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 95,
+          "real_raw": 88.3425
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Manutenção",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN",
+          "meta_raw": 80,
+          "real_raw": 91.475
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Operação",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 90,
+          "real_raw": 88.5
+        },
+        {
+          "ind": "Atende e resolve (% atendimento na primeira visita)",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 67.75,
+          "real_raw": 59.035
+        },
+        {
+          "ind": "BRR",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 12373954.05,
+          "real_raw": 15619267.94
+        },
+        {
+          "ind": "CAPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 11472914,
+          "real_raw": 10280883
+        },
+        {
+          "ind": "Conjuntos dentro do limite DEC",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 62.5,
+          "real_raw": 79.5
+        },
+        {
+          "ind": "DEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 2.98,
+          "real_raw": 3.08
+        },
+        {
+          "ind": "FEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 1.51,
+          "real_raw": 1.545
+        },
+        {
+          "ind": "OPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 14618882,
+          "real_raw": 13308568
+        },
+        {
+          "ind": "PANOP",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 99.54124999999999
+        },
+        {
+          "ind": "Reincidência",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 38,
+          "real_raw": 55.04
+        },
+        {
+          "ind": "Horas Extras",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "h",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "KM Inspecionados",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "km",
+          "proc": "MAN",
+          "meta_raw": 1414,
+          "real_raw": 1366
+        },
+        {
+          "ind": "Ocorrências acima de 24 horas",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 2.81,
+          "real_raw": 4.449999999999999
+        },
+        {
+          "ind": "PEX",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 88,
+          "real_raw": 92
+        },
+        {
+          "ind": "Produtividade",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 73.5,
+          "real_raw": 79.1925
+        },
+        {
+          "ind": "TMA",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "min",
+          "proc": "MAN+OPE",
+          "meta_raw": 2272,
+          "real_raw": 2384
+        }
+      ],
+      "Ger. Leste/Vale": [
+        {
+          "ind": "Excesso Velocidade",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 6,
+          "real_raw": 6.85
+        },
+        {
+          "ind": "IRL",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 25,
+          "real_raw": 87.75
+        },
+        {
+          "ind": "LPV – Liderança pela Vida",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 16,
+          "real_raw": 10
+        },
+        {
+          "ind": "Índice Guardião",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 95,
+          "real_raw": 81.8425
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Manutenção",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN",
+          "meta_raw": 80,
+          "real_raw": 87.32499999999999
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Operação",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 90,
+          "real_raw": 91
+        },
+        {
+          "ind": "Atende e resolve (% atendimento na primeira visita)",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 71.75,
+          "real_raw": 70.48
+        },
+        {
+          "ind": "BRR",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 36745707.29,
+          "real_raw": 42030898.56
+        },
+        {
+          "ind": "CAPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 29026516,
+          "real_raw": 33823496
+        },
+        {
+          "ind": "Conjuntos dentro do limite DEC",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 73,
+          "real_raw": 92.5
+        },
+        {
+          "ind": "DEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 4.1,
+          "real_raw": 4.105
+        },
+        {
+          "ind": "FEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 2.51,
+          "real_raw": 2.3
+        },
+        {
+          "ind": "OPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 26192779,
+          "real_raw": 28982094
+        },
+        {
+          "ind": "PANOP",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 99.7155
+        },
+        {
+          "ind": "Reincidência",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 94,
+          "real_raw": 223.24
+        },
+        {
+          "ind": "Horas Extras",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "h",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "KM Inspecionados",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "km",
+          "proc": "MAN",
+          "meta_raw": 4667,
+          "real_raw": 4649
+        },
+        {
+          "ind": "Ocorrências acima de 24 horas",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 3.2800000000000002,
+          "real_raw": 4.4
+        },
+        {
+          "ind": "PEX",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 88,
+          "real_raw": 89
+        },
+        {
+          "ind": "Produtividade",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 74.25,
+          "real_raw": 79.7825
+        },
+        {
+          "ind": "TMA",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "min",
+          "proc": "MAN+OPE",
+          "meta_raw": 2390,
+          "real_raw": 2322
+        }
+      ]
+    },
+    "ger_coord_map": {
+      "Ger. Baixada/Oeste": [
+        "Manutenção - Baixada",
+        "Manutenção - Oeste",
+        "Operação - Baixada",
+        "Operação - Oeste"
+      ],
+      "Ger. Centro Sul/Sudoeste": [
+        "Manutenção - Centro Sul",
+        "Manutenção - Barra",
+        "Operação - Centro Sul",
+        "Operação - Barra"
+      ],
+      "Ger. Leste/Vale": [
+        "Manutenção - Leste",
+        "Manutenção - Vale",
+        "Operação - Leste",
+        "Operação - Vale"
+      ]
+    },
+    "coords": {
+      "Manutenção - Baixada": [
+        {
+          "ind": "Excesso Velocidade",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 6,
+          "real_raw": 5.4,
+          "_apuracao": false
+        },
+        {
+          "ind": "IRL",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 25,
+          "real_raw": 3,
+          "_apuracao": false
+        },
+        {
+          "ind": "LPV – Liderança pela Vida",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 4,
+          "real_raw": 8,
+          "_apuracao": false
+        },
+        {
+          "ind": "Índice Guardião",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 100,
+          "real_raw": 93.01,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Manutenção",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN",
+          "meta_raw": 80,
+          "real_raw": 84.7,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Operação",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Atende e resolve (% atendimento na primeira visita)",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 70,
+          "real_raw": null,
+          "_apuracao": true
+        },
+        {
+          "ind": "BRR",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 13345089,
+          "real_raw": 18754810.79,
+          "_apuracao": false
+        },
+        {
+          "ind": "CAPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 12332183,
+          "real_raw": 12038030,
+          "_apuracao": false
+        },
+        {
+          "ind": "Conjuntos dentro do limite DEC",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 81,
+          "real_raw": 95,
+          "_apuracao": false
+        },
+        {
+          "ind": "DEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 3.56,
+          "real_raw": 3.67,
+          "_apuracao": false
+        },
+        {
+          "ind": "FEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 2.01,
+          "real_raw": 1.85,
+          "_apuracao": false
+        },
+        {
+          "ind": "OPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 5256349,
+          "real_raw": 6209111,
+          "_apuracao": false
+        },
+        {
+          "ind": "PANOP",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 99.492,
+          "_apuracao": false
+        },
+        {
+          "ind": "Reincidência",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 39,
+          "real_raw": 77,
+          "_apuracao": false
+        },
+        {
+          "ind": "Horas Extras",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "h",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "KM Inspecionados",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "km",
+          "proc": "MAN",
+          "meta_raw": 2579,
+          "real_raw": 2567,
+          "_apuracao": false
+        },
+        {
+          "ind": "Ocorrências acima de 24 horas",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "PEX",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 88,
+          "real_raw": 88,
+          "_apuracao": false
+        },
+        {
+          "ind": "Produtividade",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 109.38,
+          "_apuracao": false
+        },
+        {
+          "ind": "TMA",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "min",
+          "proc": "MAN+OPE",
+          "meta_raw": 513,
+          "real_raw": 500,
+          "_apuracao": false
+        }
+      ],
+      "Manutenção - Barra": [
+        {
+          "ind": "Excesso Velocidade",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 6,
+          "real_raw": 5.3,
+          "_apuracao": false
+        },
+        {
+          "ind": "IRL",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 25,
+          "real_raw": 0,
+          "_apuracao": false
+        },
+        {
+          "ind": "LPV – Liderança pela Vida",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 4,
+          "real_raw": 1,
+          "_apuracao": false
+        },
+        {
+          "ind": "Índice Guardião",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 100,
+          "real_raw": 86.54,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Manutenção",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN",
+          "meta_raw": 80,
+          "real_raw": 87.6,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Operação",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Atende e resolve (% atendimento na primeira visita)",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 70,
+          "real_raw": null,
+          "_apuracao": true
+        },
+        {
+          "ind": "BRR",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 4609325,
+          "real_raw": 4457604.89,
+          "_apuracao": false
+        },
+        {
+          "ind": "CAPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 3947400,
+          "real_raw": 1225354,
+          "_apuracao": false
+        },
+        {
+          "ind": "Conjuntos dentro do limite DEC",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 52,
+          "real_raw": 82,
+          "_apuracao": false
+        },
+        {
+          "ind": "DEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 3.63,
+          "real_raw": 3.42,
+          "_apuracao": false
+        },
+        {
+          "ind": "FEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 1.93,
+          "real_raw": 1.87,
+          "_apuracao": false
+        },
+        {
+          "ind": "OPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 1298231,
+          "real_raw": 1831288,
+          "_apuracao": false
+        },
+        {
+          "ind": "PANOP",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 99.038,
+          "_apuracao": false
+        },
+        {
+          "ind": "Reincidência",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 8,
+          "real_raw": 11,
+          "_apuracao": false
+        },
+        {
+          "ind": "Horas Extras",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "h",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "KM Inspecionados",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "km",
+          "proc": "MAN",
+          "meta_raw": 778,
+          "real_raw": 756,
+          "_apuracao": false
+        },
+        {
+          "ind": "Ocorrências acima de 24 horas",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "PEX",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 88,
+          "real_raw": 95,
+          "_apuracao": false
+        },
+        {
+          "ind": "Produtividade",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 100.63,
+          "_apuracao": false
+        },
+        {
+          "ind": "TMA",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "min",
+          "proc": "MAN+OPE",
+          "meta_raw": 568,
+          "real_raw": 600,
+          "_apuracao": false
+        }
+      ],
+      "Manutenção - Centro Sul": [
+        {
+          "ind": "Excesso Velocidade",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 6,
+          "real_raw": 5.7,
+          "_apuracao": false
+        },
+        {
+          "ind": "IRL",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 25,
+          "real_raw": 131,
+          "_apuracao": false
+        },
+        {
+          "ind": "LPV – Liderança pela Vida",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 4,
+          "real_raw": 4,
+          "_apuracao": false
+        },
+        {
+          "ind": "Índice Guardião",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 100,
+          "real_raw": 85.39,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Manutenção",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN",
+          "meta_raw": 80,
+          "real_raw": 95.35,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Operação",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Atende e resolve (% atendimento na primeira visita)",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 70,
+          "real_raw": null,
+          "_apuracao": true
+        },
+        {
+          "ind": "BRR",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 6636996,
+          "real_raw": 9237151.36,
+          "_apuracao": false
+        },
+        {
+          "ind": "CAPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 5982453,
+          "real_raw": 5740162,
+          "_apuracao": false
+        },
+        {
+          "ind": "Conjuntos dentro do limite DEC",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 73,
+          "real_raw": 77,
+          "_apuracao": false
+        },
+        {
+          "ind": "DEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 2.33,
+          "real_raw": 2.74,
+          "_apuracao": false
+        },
+        {
+          "ind": "FEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 1.09,
+          "real_raw": 1.22,
+          "_apuracao": false
+        },
+        {
+          "ind": "OPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 5014086,
+          "real_raw": 4660893,
+          "_apuracao": false
+        },
+        {
+          "ind": "PANOP",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 99.127,
+          "_apuracao": false
+        },
+        {
+          "ind": "Reincidência",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 2,
+          "real_raw": 14,
+          "_apuracao": false
+        },
+        {
+          "ind": "Horas Extras",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "h",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "KM Inspecionados",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "km",
+          "proc": "MAN",
+          "meta_raw": 636,
+          "real_raw": 610,
+          "_apuracao": false
+        },
+        {
+          "ind": "Ocorrências acima de 24 horas",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "PEX",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 88,
+          "real_raw": 97,
+          "_apuracao": false
+        },
+        {
+          "ind": "Produtividade",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 107.14,
+          "_apuracao": false
+        },
+        {
+          "ind": "TMA",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "min",
+          "proc": "MAN+OPE",
+          "meta_raw": 568,
+          "real_raw": 592,
+          "_apuracao": false
+        }
+      ],
+      "Manutenção - Leste": [
+        {
+          "ind": "Excesso Velocidade",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 6,
+          "real_raw": 8.3,
+          "_apuracao": false
+        },
+        {
+          "ind": "IRL",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 25,
+          "real_raw": 14,
+          "_apuracao": false
+        },
+        {
+          "ind": "LPV – Liderança pela Vida",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 4,
+          "real_raw": 2,
+          "_apuracao": false
+        },
+        {
+          "ind": "Índice Guardião",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 100,
+          "real_raw": 100,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Manutenção",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN",
+          "meta_raw": 80,
+          "real_raw": 87.1,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Operação",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Atende e resolve (% atendimento na primeira visita)",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 70,
+          "real_raw": null,
+          "_apuracao": true
+        },
+        {
+          "ind": "BRR",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 12660421,
+          "real_raw": 15553227.72,
+          "_apuracao": false
+        },
+        {
+          "ind": "CAPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 8072853,
+          "real_raw": 8488436,
+          "_apuracao": false
+        },
+        {
+          "ind": "Conjuntos dentro do limite DEC",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 95,
+          "real_raw": 100,
+          "_apuracao": false
+        },
+        {
+          "ind": "DEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 2.7,
+          "real_raw": 2.7,
+          "_apuracao": false
+        },
+        {
+          "ind": "FEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 1.33,
+          "real_raw": 1.26,
+          "_apuracao": false
+        },
+        {
+          "ind": "OPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 2255786,
+          "real_raw": 2306559,
+          "_apuracao": false
+        },
+        {
+          "ind": "PANOP",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 99.281,
+          "_apuracao": false
+        },
+        {
+          "ind": "Reincidência",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 13,
+          "real_raw": 13,
+          "_apuracao": false
+        },
+        {
+          "ind": "Horas Extras",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "h",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "KM Inspecionados",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "km",
+          "proc": "MAN",
+          "meta_raw": 1309,
+          "real_raw": 1320,
+          "_apuracao": false
+        },
+        {
+          "ind": "Ocorrências acima de 24 horas",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "PEX",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 88,
+          "real_raw": 87,
+          "_apuracao": false
+        },
+        {
+          "ind": "Produtividade",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 103.13,
+          "_apuracao": false
+        },
+        {
+          "ind": "TMA",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "min",
+          "proc": "MAN+OPE",
+          "meta_raw": 623,
+          "real_raw": 581,
+          "_apuracao": false
+        }
+      ],
+      "Manutenção - Oeste": [
+        {
+          "ind": "Excesso Velocidade",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 6,
+          "real_raw": 6.2,
+          "_apuracao": false
+        },
+        {
+          "ind": "IRL",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 25,
+          "real_raw": 17,
+          "_apuracao": false
+        },
+        {
+          "ind": "LPV – Liderança pela Vida",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 4,
+          "real_raw": 3,
+          "_apuracao": false
+        },
+        {
+          "ind": "Índice Guardião",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 100,
+          "real_raw": 93.6,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Manutenção",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN",
+          "meta_raw": 80,
+          "real_raw": 80.85,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Operação",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Atende e resolve (% atendimento na primeira visita)",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 70,
+          "real_raw": null,
+          "_apuracao": true
+        },
+        {
+          "ind": "BRR",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 19062762,
+          "real_raw": 20209347.01,
+          "_apuracao": false
+        },
+        {
+          "ind": "CAPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 15679924,
+          "real_raw": 11343843,
+          "_apuracao": false
+        },
+        {
+          "ind": "Conjuntos dentro do limite DEC",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 51,
+          "real_raw": 85,
+          "_apuracao": false
+        },
+        {
+          "ind": "DEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 4.26,
+          "real_raw": 4.58,
+          "_apuracao": false
+        },
+        {
+          "ind": "FEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 2.24,
+          "real_raw": 2.22,
+          "_apuracao": false
+        },
+        {
+          "ind": "OPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 5623903,
+          "real_raw": 5177930,
+          "_apuracao": false
+        },
+        {
+          "ind": "PANOP",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 99.115,
+          "_apuracao": false
+        },
+        {
+          "ind": "Reincidência",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 26,
+          "real_raw": 33,
+          "_apuracao": false
+        },
+        {
+          "ind": "Horas Extras",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "h",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "KM Inspecionados",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "km",
+          "proc": "MAN",
+          "meta_raw": 1959,
+          "real_raw": 1905,
+          "_apuracao": false
+        },
+        {
+          "ind": "Ocorrências acima de 24 horas",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "PEX",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 88,
+          "real_raw": 97,
+          "_apuracao": false
+        },
+        {
+          "ind": "Produtividade",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 97.62,
+          "_apuracao": false
+        },
+        {
+          "ind": "TMA",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "min",
+          "proc": "MAN+OPE",
+          "meta_raw": 610,
+          "real_raw": 618,
+          "_apuracao": false
+        }
+      ],
+      "Manutenção - Vale": [
+        {
+          "ind": "Excesso Velocidade",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 6,
+          "real_raw": 7.1,
+          "_apuracao": false
+        },
+        {
+          "ind": "IRL",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 25,
+          "real_raw": 309,
+          "_apuracao": false
+        },
+        {
+          "ind": "LPV – Liderança pela Vida",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 4,
+          "real_raw": 6,
+          "_apuracao": false
+        },
+        {
+          "ind": "Índice Guardião",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 100,
+          "real_raw": 92.16,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Manutenção",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN",
+          "meta_raw": 80,
+          "real_raw": 87.55,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Operação",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Atende e resolve (% atendimento na primeira visita)",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 70,
+          "real_raw": null,
+          "_apuracao": true
+        },
+        {
+          "ind": "BRR",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 21174973,
+          "real_raw": 17983620.47,
+          "_apuracao": false
+        },
+        {
+          "ind": "CAPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 13187680,
+          "real_raw": 12390787,
+          "_apuracao": false
+        },
+        {
+          "ind": "Conjuntos dentro do limite DEC",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 51,
+          "real_raw": 85,
+          "_apuracao": false
+        },
+        {
+          "ind": "DEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 5.5,
+          "real_raw": 5.51,
+          "_apuracao": false
+        },
+        {
+          "ind": "FEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 3.69,
+          "real_raw": 3.34,
+          "_apuracao": false
+        },
+        {
+          "ind": "OPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 5654121,
+          "real_raw": 8043358,
+          "_apuracao": false
+        },
+        {
+          "ind": "PANOP",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 99.581,
+          "_apuracao": false
+        },
+        {
+          "ind": "Reincidência",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 55,
+          "real_raw": 178,
+          "_apuracao": false
+        },
+        {
+          "ind": "Horas Extras",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "h",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "KM Inspecionados",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "km",
+          "proc": "MAN",
+          "meta_raw": 3358,
+          "real_raw": 3329,
+          "_apuracao": false
+        },
+        {
+          "ind": "Ocorrências acima de 24 horas",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "PEX",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 88,
+          "real_raw": 85,
+          "_apuracao": false
+        },
+        {
+          "ind": "Produtividade",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 100,
+          "_apuracao": false
+        },
+        {
+          "ind": "TMA",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "min",
+          "proc": "MAN+OPE",
+          "meta_raw": 572,
+          "real_raw": 580,
+          "_apuracao": false
+        }
+      ],
+      "Operação - Baixada": [
+        {
+          "ind": "Excesso Velocidade",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 6,
+          "real_raw": 4.2,
+          "_apuracao": false
+        },
+        {
+          "ind": "IRL",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 25,
+          "real_raw": 14,
+          "_apuracao": false
+        },
+        {
+          "ind": "LPV – Liderança pela Vida",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 4,
+          "real_raw": 0,
+          "_apuracao": false
+        },
+        {
+          "ind": "Índice Guardião",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 65.99,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Manutenção",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Operação",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 90,
+          "real_raw": 94,
+          "_apuracao": false
+        },
+        {
+          "ind": "Atende e resolve (% atendimento na primeira visita)",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 66,
+          "real_raw": 66.07,
+          "_apuracao": false
+        },
+        {
+          "ind": "BRR",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 1735585.47,
+          "real_raw": 3664994.67,
+          "_apuracao": false
+        },
+        {
+          "ind": "CAPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 4641055,
+          "real_raw": 5023889,
+          "_apuracao": false
+        },
+        {
+          "ind": "Conjuntos dentro do limite DEC",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 81,
+          "real_raw": 95,
+          "_apuracao": false
+        },
+        {
+          "ind": "DEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 3.56,
+          "real_raw": 3.67,
+          "_apuracao": false
+        },
+        {
+          "ind": "FEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 2.01,
+          "real_raw": 1.85,
+          "_apuracao": false
+        },
+        {
+          "ind": "OPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 12449260,
+          "real_raw": 11419174,
+          "_apuracao": false
+        },
+        {
+          "ind": "PANOP",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 100,
+          "_apuracao": false
+        },
+        {
+          "ind": "Reincidência",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 19,
+          "real_raw": 23.85,
+          "_apuracao": false
+        },
+        {
+          "ind": "Horas Extras",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "h",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "KM Inspecionados",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "km",
+          "proc": "MAN",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Ocorrências acima de 24 horas",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 2.91,
+          "real_raw": 4,
+          "_apuracao": false
+        },
+        {
+          "ind": "PEX",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 88,
+          "real_raw": 94,
+          "_apuracao": false
+        },
+        {
+          "ind": "Produtividade",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 52,
+          "real_raw": 52,
+          "_apuracao": false
+        },
+        {
+          "ind": "TMA",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "min",
+          "proc": "MAN+OPE",
+          "meta_raw": 513,
+          "real_raw": 500,
+          "_apuracao": false
+        }
+      ],
+      "Operação - Barra": [
+        {
+          "ind": "Excesso Velocidade",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 6.4,
+          "real_raw": 6.0814
+        },
+        {
+          "ind": "IRL",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 25,
+          "real_raw": 0
+        },
+        {
+          "ind": "LPV – Liderança pela Vida",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 4,
+          "real_raw": 4
+        },
+        {
+          "ind": "Índice Guardião",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 100
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Manutenção",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Operação",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 90,
+          "real_raw": 82,
+          "_apuracao": false
+        },
+        {
+          "ind": "Atende e resolve (% atendimento na primeira visita)",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 67,
+          "real_raw": 58.89,
+          "_apuracao": false
+        },
+        {
+          "ind": "BRR",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "CAPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Conjuntos dentro do limite DEC",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 52,
+          "real_raw": 82,
+          "_apuracao": false
+        },
+        {
+          "ind": "DEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 3.63,
+          "real_raw": 3.42,
+          "_apuracao": false
+        },
+        {
+          "ind": "FEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 1.93,
+          "real_raw": 1.87,
+          "_apuracao": false
+        },
+        {
+          "ind": "OPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "PANOP",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 100,
+          "_apuracao": false
+        },
+        {
+          "ind": "Reincidência",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 14,
+          "real_raw": 15.6,
+          "_apuracao": false
+        },
+        {
+          "ind": "Horas Extras",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "h",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "KM Inspecionados",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "km",
+          "proc": "MAN",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Ocorrências acima de 24 horas",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 2.81,
+          "real_raw": 4.1,
+          "_apuracao": false
+        },
+        {
+          "ind": "PEX",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 88,
+          "real_raw": 90,
+          "_apuracao": false
+        },
+        {
+          "ind": "Produtividade",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 54,
+          "real_raw": 51,
+          "_apuracao": false
+        },
+        {
+          "ind": "TMA",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "min",
+          "proc": "MAN+OPE",
+          "meta_raw": 568,
+          "real_raw": 600,
+          "_apuracao": false
+        }
+      ],
+      "Operação - Centro Sul": [
+        {
+          "ind": "Excesso Velocidade",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 6,
+          "real_raw": 6.3,
+          "_apuracao": false
+        },
+        {
+          "ind": "IRL",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 25,
+          "real_raw": 4,
+          "_apuracao": false
+        },
+        {
+          "ind": "LPV – Liderança pela Vida",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 4,
+          "real_raw": 0,
+          "_apuracao": false
+        },
+        {
+          "ind": "Índice Guardião",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 81.44,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Manutenção",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Operação",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 90,
+          "real_raw": 95,
+          "_apuracao": false
+        },
+        {
+          "ind": "Atende e resolve (% atendimento na primeira visita)",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 64,
+          "real_raw": 59.18,
+          "_apuracao": false
+        },
+        {
+          "ind": "BRR",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 1127633.05,
+          "real_raw": 1924511.69,
+          "_apuracao": false
+        },
+        {
+          "ind": "CAPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 1543061,
+          "real_raw": 3315367,
+          "_apuracao": false
+        },
+        {
+          "ind": "Conjuntos dentro do limite DEC",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 73,
+          "real_raw": 77,
+          "_apuracao": false
+        },
+        {
+          "ind": "DEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 2.33,
+          "real_raw": 2.74,
+          "_apuracao": false
+        },
+        {
+          "ind": "FEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 1.09,
+          "real_raw": 1.22,
+          "_apuracao": false
+        },
+        {
+          "ind": "OPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 8306565,
+          "real_raw": 6816387,
+          "_apuracao": false
+        },
+        {
+          "ind": "PANOP",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 100,
+          "_apuracao": false
+        },
+        {
+          "ind": "Reincidência",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 14,
+          "real_raw": 14.44,
+          "_apuracao": false
+        },
+        {
+          "ind": "Horas Extras",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "h",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "KM Inspecionados",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "km",
+          "proc": "MAN",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Ocorrências acima de 24 horas",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 2.81,
+          "real_raw": 4.8,
+          "_apuracao": false
+        },
+        {
+          "ind": "PEX",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 88,
+          "real_raw": 86,
+          "_apuracao": false
+        },
+        {
+          "ind": "Produtividade",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 60,
+          "real_raw": 58,
+          "_apuracao": false
+        },
+        {
+          "ind": "TMA",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "min",
+          "proc": "MAN+OPE",
+          "meta_raw": 568,
+          "real_raw": 592,
+          "_apuracao": false
+        }
+      ],
+      "Operação - Leste": [
+        {
+          "ind": "Excesso Velocidade",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 6,
+          "real_raw": 6.5,
+          "_apuracao": false
+        },
+        {
+          "ind": "IRL",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 25,
+          "real_raw": 18,
+          "_apuracao": false
+        },
+        {
+          "ind": "LPV – Liderança pela Vida",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 4,
+          "real_raw": 0,
+          "_apuracao": false
+        },
+        {
+          "ind": "Índice Guardião",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 56.84,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Manutenção",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Operação",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 90,
+          "real_raw": 85,
+          "_apuracao": false
+        },
+        {
+          "ind": "Atende e resolve (% atendimento na primeira visita)",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 66,
+          "real_raw": 63.77,
+          "_apuracao": false
+        },
+        {
+          "ind": "BRR",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 1539911.77,
+          "real_raw": 4601228.39,
+          "_apuracao": false
+        },
+        {
+          "ind": "CAPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 4134205,
+          "real_raw": 7044546,
+          "_apuracao": false
+        },
+        {
+          "ind": "Conjuntos dentro do limite DEC",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 95,
+          "real_raw": 100,
+          "_apuracao": false
+        },
+        {
+          "ind": "DEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 2.7,
+          "real_raw": 2.7,
+          "_apuracao": false
+        },
+        {
+          "ind": "FEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 1.33,
+          "real_raw": 1.26,
+          "_apuracao": false
+        },
+        {
+          "ind": "OPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 10075523,
+          "real_raw": 11768511,
+          "_apuracao": false
+        },
+        {
+          "ind": "PANOP",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 100,
+          "_apuracao": false
+        },
+        {
+          "ind": "Reincidência",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 17,
+          "real_raw": 24,
+          "_apuracao": false
+        },
+        {
+          "ind": "Horas Extras",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "h",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "KM Inspecionados",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "km",
+          "proc": "MAN",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Ocorrências acima de 24 horas",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 4.48,
+          "real_raw": 7.5,
+          "_apuracao": false
+        },
+        {
+          "ind": "PEX",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 88,
+          "real_raw": 92,
+          "_apuracao": false
+        },
+        {
+          "ind": "Produtividade",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 56,
+          "real_raw": 53,
+          "_apuracao": false
+        },
+        {
+          "ind": "TMA",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "min",
+          "proc": "MAN+OPE",
+          "meta_raw": 623,
+          "real_raw": 581,
+          "_apuracao": false
+        }
+      ],
+      "Operação - Oeste": [
+        {
+          "ind": "Excesso Velocidade",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 6,
+          "real_raw": 4.2,
+          "_apuracao": false
+        },
+        {
+          "ind": "IRL",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 25,
+          "real_raw": 17,
+          "_apuracao": false
+        },
+        {
+          "ind": "LPV – Liderança pela Vida",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 4,
+          "real_raw": 4,
+          "_apuracao": false
+        },
+        {
+          "ind": "Índice Guardião",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 63.47,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Manutenção",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Operação",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 90,
+          "real_raw": 88,
+          "_apuracao": false
+        },
+        {
+          "ind": "Atende e resolve (% atendimento na primeira visita)",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 64,
+          "real_raw": 59.82,
+          "_apuracao": false
+        },
+        {
+          "ind": "BRR",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 1383284.92,
+          "real_raw": 2646001.45,
+          "_apuracao": false
+        },
+        {
+          "ind": "CAPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 3133253,
+          "real_raw": 3906739,
+          "_apuracao": false
+        },
+        {
+          "ind": "Conjuntos dentro do limite DEC",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 51,
+          "real_raw": 85,
+          "_apuracao": false
+        },
+        {
+          "ind": "DEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 4.26,
+          "real_raw": 4.58,
+          "_apuracao": false
+        },
+        {
+          "ind": "FEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 2.24,
+          "real_raw": 2.22,
+          "_apuracao": false
+        },
+        {
+          "ind": "OPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 10675480,
+          "real_raw": 9794470,
+          "_apuracao": false
+        },
+        {
+          "ind": "PANOP",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 100,
+          "_apuracao": false
+        },
+        {
+          "ind": "Reincidência",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 17,
+          "real_raw": 18.2,
+          "_apuracao": false
+        },
+        {
+          "ind": "Horas Extras",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "h",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "KM Inspecionados",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "km",
+          "proc": "MAN",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Ocorrências acima de 24 horas",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 3.43,
+          "real_raw": 5.2,
+          "_apuracao": false
+        },
+        {
+          "ind": "PEX",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 88,
+          "real_raw": 85,
+          "_apuracao": false
+        },
+        {
+          "ind": "Produtividade",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 56,
+          "real_raw": 55,
+          "_apuracao": false
+        },
+        {
+          "ind": "TMA",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "min",
+          "proc": "MAN+OPE",
+          "meta_raw": 610,
+          "real_raw": 618,
+          "_apuracao": false
+        }
+      ],
+      "Operação - Vale": [
+        {
+          "ind": "Excesso Velocidade",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 6,
+          "real_raw": 5.5,
+          "_apuracao": false
+        },
+        {
+          "ind": "IRL",
+          "pilar": "SEGURANÇA",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 25,
+          "real_raw": 10,
+          "_apuracao": false
+        },
+        {
+          "ind": "LPV – Liderança pela Vida",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 4,
+          "real_raw": 2,
+          "_apuracao": false
+        },
+        {
+          "ind": "Índice Guardião",
+          "pilar": "SEGURANÇA",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 78.37,
+          "_apuracao": false
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Manutenção",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Aderência de Execução ao Plano de Operação",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 90,
+          "real_raw": 97,
+          "_apuracao": false
+        },
+        {
+          "ind": "Atende e resolve (% atendimento na primeira visita)",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 81,
+          "real_raw": 77.19,
+          "_apuracao": false
+        },
+        {
+          "ind": "BRR",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 1370401.52,
+          "real_raw": 3892821.98,
+          "_apuracao": false
+        },
+        {
+          "ind": "CAPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 3631778,
+          "real_raw": 5899727,
+          "_apuracao": false
+        },
+        {
+          "ind": "Conjuntos dentro do limite DEC",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 51,
+          "real_raw": 85,
+          "_apuracao": false
+        },
+        {
+          "ind": "DEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 5.5,
+          "real_raw": 5.51,
+          "_apuracao": false
+        },
+        {
+          "ind": "FEC Regional",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 3.69,
+          "real_raw": 3.34,
+          "_apuracao": false
+        },
+        {
+          "ind": "OPEX",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "R$",
+          "proc": "MAN+OPE",
+          "meta_raw": 8207349,
+          "real_raw": 6863666,
+          "_apuracao": false
+        },
+        {
+          "ind": "PANOP",
+          "pilar": "QUALIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 90,
+          "real_raw": 100,
+          "_apuracao": false
+        },
+        {
+          "ind": "Reincidência",
+          "pilar": "QUALIDADE",
+          "pol": "Menor",
+          "unit": "un",
+          "proc": "MAN+OPE",
+          "meta_raw": 9,
+          "real_raw": 8.24,
+          "_apuracao": false
+        },
+        {
+          "ind": "Horas Extras",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "h",
+          "proc": "MAN+OPE",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "KM Inspecionados",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "km",
+          "proc": "MAN",
+          "meta_raw": null,
+          "real_raw": null
+        },
+        {
+          "ind": "Ocorrências acima de 24 horas",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "%",
+          "proc": "OPE",
+          "meta_raw": 2.08,
+          "real_raw": 1.3,
+          "_apuracao": false
+        },
+        {
+          "ind": "PEX",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 88,
+          "real_raw": 92,
+          "_apuracao": false
+        },
+        {
+          "ind": "Produtividade",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Maior",
+          "unit": "%",
+          "proc": "MAN+OPE",
+          "meta_raw": 61,
+          "real_raw": 63,
+          "_apuracao": false
+        },
+        {
+          "ind": "TMA",
+          "pilar": "PRODUTIVIDADE",
+          "pol": "Menor",
+          "unit": "min",
+          "proc": "MAN+OPE",
+          "meta_raw": 572,
+          "real_raw": 580,
+          "_apuracao": false
+        }
+      ]
+    },
+    "coord_display": {
+      "Manutenção - Barra": "Manutenção - Sudoeste",
+      "Operação - Barra": "Operação - Sudoeste"
+    },
+    "ger_list": [
+      "Ger. Baixada/Oeste",
+      "Ger. Centro Sul/Sudoeste",
+      "Ger. Leste/Vale"
+    ],
+    "coord_list": [
+      "Manutenção - Baixada",
+      "Manutenção - Barra",
+      "Manutenção - Centro Sul",
+      "Manutenção - Leste",
+      "Manutenção - Oeste",
+      "Manutenção - Vale",
+      "Operação - Baixada",
+      "Operação - Barra",
+      "Operação - Centro Sul",
+      "Operação - Leste",
+      "Operação - Oeste",
+      "Operação - Vale"
+    ]
+  },
+  "creds": {
+    "CGU": [
+      {
+        "u": "admin",
+        "p": "admin123"
+      }
+    ],
+    "SUPTE": [
+      {
+        "u": "supte",
+        "p": "supte123"
+      }
+    ],
+    "GER": {
+      "Ger. Baixada/Oeste": [
+        {
+          "u": "ger.bo",
+          "p": "gerbo123"
+        }
+      ],
+      "Ger. Centro Sul/Sudoeste": [
+        {
+          "u": "ger.cs",
+          "p": "gercs123"
+        }
+      ],
+      "Ger. Leste/Vale": [
+        {
+          "u": "ger.lv",
+          "p": "gerlv123"
+        }
+      ]
+    },
+    "COORD": {
+      "Manutenção - Baixada": [
+        {
+          "u": "man.bx",
+          "p": "manbx123"
+        }
+      ],
+      "Manutenção - Barra": [
+        {
+          "u": "man.sw",
+          "p": "mansw123"
+        }
+      ],
+      "Manutenção - Centro Sul": [
+        {
+          "u": "man.cs",
+          "p": "mancs123"
+        }
+      ],
+      "Manutenção - Leste": [
+        {
+          "u": "man.lt",
+          "p": "manlt123"
+        }
+      ],
+      "Manutenção - Oeste": [
+        {
+          "u": "man.ot",
+          "p": "manot123"
+        }
+      ],
+      "Manutenção - Vale": [
+        {
+          "u": "man.vl",
+          "p": "manvl123"
+        }
+      ],
+      "Operação - Baixada": [
+        {
+          "u": "ope.bx",
+          "p": "opebx123"
+        }
+      ],
+      "Operação - Barra": [
+        {
+          "u": "ope.sw",
+          "p": "opesw123"
+        }
+      ],
+      "Operação - Centro Sul": [
+        {
+          "u": "ope.cs",
+          "p": "opecs123"
+        }
+      ],
+      "Operação - Leste": [
+        {
+          "u": "ope.lt",
+          "p": "opelt123"
+        }
+      ],
+      "Operação - Oeste": [
+        {
+          "u": "ope.ot",
+          "p": "opeot123"
+        }
+      ],
+      "Operação - Vale": [
+        {
+          "u": "ope.vl",
+          "p": "opevl123"
+        }
+      ]
+    }
+  },
+  "savedBy": "Administrador",
+  "savedAt": "2026-06-29T11:09:55.978Z"
+}
